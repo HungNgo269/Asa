@@ -1,4 +1,4 @@
-# PROGRESS — Bảng tiến độ WeldJobs (Agent cập nhật sau mỗi lần chấm)
+﻿# PROGRESS — Bảng tiến độ WeldJobs (Agent cập nhật sau mỗi lần chấm)
 
 > Quy ước: `[ ]` chưa làm · `[x]` đã **PASS** · `[~]` đang làm / còn **nợ mục phụ** (ghi rõ nợ gì) · `[-]` bỏ qua (chỉ bài `(Tùy chọn)` hoặc cả Mốc 3, kèm lý do).
 > Agent chỉ in lại **dòng thay đổi** sau mỗi bài; in cả bảng khi người học gõ "tiến độ".
@@ -18,10 +18,10 @@
 ## MỐC 1 – Backend Java chạy được
 
 ### Giai đoạn 0
-- [ ] 0.1 Cài đặt và kiểm tra môi trường
-- [ ] 0.2 Dựng khung kiến trúc 4 tầng và luật kiến trúc (ArchUnit)
+- [x] 0.1 Cài đặt và kiểm tra môi trường
+- [x] 0.2 Dựng khung kiến trúc 4 tầng và luật kiến trúc (ArchUnit)
 ### Giai đoạn 1
-- [ ] 1.1 Maven project và Java 21 refresher
+- [ ] 1.1 Maven project và Java 21 refresher *(Mới có nháp menu & Text ở com.weldjobs.app; chưa có khung 4 tầng 0.2, chưa có Regions, thiếu 8 test)*
 - [ ] 1.2 OOP: lớp, đóng gói, enum, `equals/hashCode/toString`
 - [ ] 1.3 Kế thừa, abstract class, interface, polymorphism, composition
 - [ ] 1.4 `record`, `var`, `Optional`, sealed types, pattern matching
@@ -110,4 +110,3 @@
 - [ ] 7.9 RAG hỏi đáp FAQ *(Tùy chọn)*
 - [ ] 7.10 Cầu nối sang dự án dự đoán giá dầu
 - [ ] 7.11 Capstone khóa học (bài thi tùy chọn)
-
