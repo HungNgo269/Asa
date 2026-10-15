@@ -1,0 +1,4011 @@
+[
+  {
+    "code": "HN",
+    "name": "Hà Nội",
+    "slug": "ha-noi",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "HN_BA_DINH",
+        "name": "Ba Đình",
+        "slug": "ba-dinh"
+      },
+      {
+        "code": "HN_HOAN_KIEM",
+        "name": "Hoàn Kiếm",
+        "slug": "hoan-kiem"
+      },
+      {
+        "code": "HN_TAY_HO",
+        "name": "Tây Hồ",
+        "slug": "tay-ho"
+      },
+      {
+        "code": "HN_LONG_BIEN",
+        "name": "Long Biên",
+        "slug": "long-bien"
+      },
+      {
+        "code": "HN_CAU_GIAY",
+        "name": "Cầu Giấy",
+        "slug": "cau-giay"
+      },
+      {
+        "code": "HN_DONG_DA",
+        "name": "Đống Đa",
+        "slug": "dong-da"
+      },
+      {
+        "code": "HN_HAI_BA_TRUNG",
+        "name": "Hai Bà Trưng",
+        "slug": "hai-ba-trung"
+      },
+      {
+        "code": "HN_HOANG_MAI",
+        "name": "Hoàng Mai",
+        "slug": "hoang-mai"
+      },
+      {
+        "code": "HN_THANH_XUAN",
+        "name": "Thanh Xuân",
+        "slug": "thanh-xuan"
+      },
+      {
+        "code": "HN_SOC_SON",
+        "name": "Sóc Sơn",
+        "slug": "soc-son"
+      },
+      {
+        "code": "HN_DONG_ANH",
+        "name": "Đông Anh",
+        "slug": "dong-anh"
+      },
+      {
+        "code": "HN_GIA_LAM",
+        "name": "Gia Lâm",
+        "slug": "gia-lam"
+      },
+      {
+        "code": "HN_NAM_TU_LIEM",
+        "name": "Nam Từ Liêm",
+        "slug": "nam-tu-liem"
+      },
+      {
+        "code": "HN_THANH_TRI",
+        "name": "Thanh Trì",
+        "slug": "thanh-tri"
+      },
+      {
+        "code": "HN_BAC_TU_LIEM",
+        "name": "Bắc Từ Liêm",
+        "slug": "bac-tu-liem"
+      },
+      {
+        "code": "HN_ME_LINH",
+        "name": "Mê Linh",
+        "slug": "me-linh"
+      },
+      {
+        "code": "HN_HA_DONG",
+        "name": "Hà Đông",
+        "slug": "ha-dong"
+      },
+      {
+        "code": "HN_SON_TAY",
+        "name": "Sơn Tây",
+        "slug": "son-tay"
+      },
+      {
+        "code": "HN_BA_VI",
+        "name": "Ba Vì",
+        "slug": "ba-vi"
+      },
+      {
+        "code": "HN_PHUC_THO",
+        "name": "Phúc Thọ",
+        "slug": "phuc-tho"
+      },
+      {
+        "code": "HN_DAN_PHUONG",
+        "name": "Đan Phượng",
+        "slug": "dan-phuong"
+      },
+      {
+        "code": "HN_HOAI_DUC",
+        "name": "Hoài Đức",
+        "slug": "hoai-duc"
+      },
+      {
+        "code": "HN_QUOC_OAI",
+        "name": "Quốc Oai",
+        "slug": "quoc-oai"
+      },
+      {
+        "code": "HN_THACH_THAT",
+        "name": "Thạch Thất",
+        "slug": "thach-that"
+      },
+      {
+        "code": "HN_CHUONG_MY",
+        "name": "Chương Mỹ",
+        "slug": "chuong-my"
+      },
+      {
+        "code": "HN_THANH_OAI",
+        "name": "Thanh Oai",
+        "slug": "thanh-oai"
+      },
+      {
+        "code": "HN_THUONG_TIN",
+        "name": "Thường Tín",
+        "slug": "thuong-tin"
+      },
+      {
+        "code": "HN_PHU_XUYEN",
+        "name": "Phú Xuyên",
+        "slug": "phu-xuyen"
+      },
+      {
+        "code": "HN_UNG_HOA",
+        "name": "Ứng Hòa",
+        "slug": "ung-hoa"
+      },
+      {
+        "code": "HN_MY_DUC",
+        "name": "Mỹ Đức",
+        "slug": "my-duc"
+      }
+    ]
+  },
+  {
+    "code": "HP",
+    "name": "Hải Phòng",
+    "slug": "hai-phong",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "HP_HONG_BANG",
+        "name": "Hồng Bàng",
+        "slug": "hong-bang"
+      },
+      {
+        "code": "HP_NGO_QUYEN",
+        "name": "Ngô Quyền",
+        "slug": "ngo-quyen"
+      },
+      {
+        "code": "HP_LE_CHAN",
+        "name": "Lê Chân",
+        "slug": "le-chan"
+      },
+      {
+        "code": "HP_HAI_AN",
+        "name": "Hải An",
+        "slug": "hai-an"
+      },
+      {
+        "code": "HP_KIEN_AN",
+        "name": "Kiến An",
+        "slug": "kien-an"
+      },
+      {
+        "code": "HP_DO_SON",
+        "name": "Đồ Sơn",
+        "slug": "do-son"
+      },
+      {
+        "code": "HP_DUONG_KINH",
+        "name": "Dương Kinh",
+        "slug": "duong-kinh"
+      },
+      {
+        "code": "HP_THUY_NGUYEN",
+        "name": "Thủy Nguyên",
+        "slug": "thuy-nguyen"
+      },
+      {
+        "code": "HP_AN_DUONG",
+        "name": "An Dương",
+        "slug": "an-duong"
+      },
+      {
+        "code": "HP_AN_LAO",
+        "name": "An Lão",
+        "slug": "an-lao"
+      },
+      {
+        "code": "HP_KIEN_THUY",
+        "name": "Kiến Thụy",
+        "slug": "kien-thuy"
+      },
+      {
+        "code": "HP_TIEN_LANG",
+        "name": "Tiên Lãng",
+        "slug": "tien-lang"
+      },
+      {
+        "code": "HP_VINH_BAO",
+        "name": "Vĩnh Bảo",
+        "slug": "vinh-bao"
+      },
+      {
+        "code": "HP_CAT_HAI",
+        "name": "Cát Hải",
+        "slug": "cat-hai"
+      },
+      {
+        "code": "HP_BACH_LONG_VI",
+        "name": "Bạch Long Vĩ",
+        "slug": "bach-long-vi"
+      }
+    ]
+  },
+  {
+    "code": "QNI",
+    "name": "Quảng Ninh",
+    "slug": "quang-ninh",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "QNI_HA_LONG",
+        "name": "Hạ Long",
+        "slug": "ha-long"
+      },
+      {
+        "code": "QNI_MONG_CAI",
+        "name": "Móng Cái",
+        "slug": "mong-cai"
+      },
+      {
+        "code": "QNI_CAM_PHA",
+        "name": "Cẩm Phả",
+        "slug": "cam-pha"
+      },
+      {
+        "code": "QNI_UONG_BI",
+        "name": "Uông Bí",
+        "slug": "uong-bi"
+      },
+      {
+        "code": "QNI_QUANG_YEN",
+        "name": "Quảng Yên",
+        "slug": "quang-yen"
+      },
+      {
+        "code": "QNI_DONG_TRIEU",
+        "name": "Đông Triều",
+        "slug": "dong-trieu"
+      },
+      {
+        "code": "QNI_VAN_DON",
+        "name": "Vân Đồn",
+        "slug": "van-don"
+      },
+      {
+        "code": "QNI_TIEN_YEN",
+        "name": "Tiên Yên",
+        "slug": "tien-yen"
+      },
+      {
+        "code": "QNI_HAI_HA",
+        "name": "Hải Hà",
+        "slug": "hai-ha"
+      },
+      {
+        "code": "QNI_BA_CHE",
+        "name": "Ba Chẽ",
+        "slug": "ba-che"
+      },
+      {
+        "code": "QNI_BINH_LIEU",
+        "name": "Bình Liêu",
+        "slug": "binh-lieu"
+      },
+      {
+        "code": "QNI_CO_TO",
+        "name": "Cô Tô",
+        "slug": "co-to"
+      },
+      {
+        "code": "QNI_DAM_HA",
+        "name": "Đầm Hà",
+        "slug": "dam-ha"
+      }
+    ]
+  },
+  {
+    "code": "BN",
+    "name": "Bắc Ninh",
+    "slug": "bac-ninh",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "BN_BAC_NINH",
+        "name": "Bắc Ninh",
+        "slug": "bac-ninh"
+      },
+      {
+        "code": "BN_TU_SON",
+        "name": "Từ Sơn",
+        "slug": "tu-son"
+      },
+      {
+        "code": "BN_YEN_PHONG",
+        "name": "Yên Phong",
+        "slug": "yen-phong"
+      },
+      {
+        "code": "BN_QUE_VO",
+        "name": "Quế Võ",
+        "slug": "que-vo"
+      },
+      {
+        "code": "BN_TIEN_DU",
+        "name": "Tiên Du",
+        "slug": "tien-du"
+      },
+      {
+        "code": "BN_THUAN_THANH",
+        "name": "Thuận Thành",
+        "slug": "thuan-thanh"
+      },
+      {
+        "code": "BN_GIA_BINH",
+        "name": "Gia Bình",
+        "slug": "gia-binh"
+      },
+      {
+        "code": "BN_LUONG_TAI",
+        "name": "Lương Tài",
+        "slug": "luong-tai"
+      }
+    ]
+  },
+  {
+    "code": "BG",
+    "name": "Bắc Giang",
+    "slug": "bac-giang",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "BG_BAC_GIANG",
+        "name": "Bắc Giang",
+        "slug": "bac-giang"
+      },
+      {
+        "code": "BG_VIET_YEN",
+        "name": "Việt Yên",
+        "slug": "viet-yen"
+      },
+      {
+        "code": "BG_HIEP_HOA",
+        "name": "Hiệp Hòa",
+        "slug": "hiep-hoa"
+      },
+      {
+        "code": "BG_TAN_YEN",
+        "name": "Tân Yên",
+        "slug": "tan-yen"
+      },
+      {
+        "code": "BG_LANG_GIANG",
+        "name": "Lạng Giang",
+        "slug": "lang-giang"
+      },
+      {
+        "code": "BG_LUC_NAM",
+        "name": "Lục Nam",
+        "slug": "luc-nam"
+      },
+      {
+        "code": "BG_LUC_NGAN",
+        "name": "Lục Ngạn",
+        "slug": "luc-ngan"
+      },
+      {
+        "code": "BG_SON_DONG",
+        "name": "Sơn Động",
+        "slug": "son-dong"
+      },
+      {
+        "code": "BG_YEN_DUNG",
+        "name": "Yên Dũng",
+        "slug": "yen-dung"
+      },
+      {
+        "code": "BG_YEN_THE",
+        "name": "Yên Thế",
+        "slug": "yen-the"
+      }
+    ]
+  },
+  {
+    "code": "HD",
+    "name": "Hải Dương",
+    "slug": "hai-duong",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "HD_HAI_DUONG",
+        "name": "Hải Dương",
+        "slug": "hai-duong"
+      },
+      {
+        "code": "HD_CHI_LINH",
+        "name": "Chí Linh",
+        "slug": "chi-linh"
+      },
+      {
+        "code": "HD_KINH_MON",
+        "name": "Kinh Môn",
+        "slug": "kinh-mon"
+      },
+      {
+        "code": "HD_CAM_GIANG",
+        "name": "Cẩm Giàng",
+        "slug": "cam-giang"
+      },
+      {
+        "code": "HD_NINH_GIANG",
+        "name": "Ninh Giang",
+        "slug": "ninh-giang"
+      },
+      {
+        "code": "HD_GIA_LOC",
+        "name": "Gia Lộc",
+        "slug": "gia-loc"
+      },
+      {
+        "code": "HD_KIM_THANH",
+        "name": "Kim Thành",
+        "slug": "kim-thanh"
+      },
+      {
+        "code": "HD_NAM_SACH",
+        "name": "Nam Sách",
+        "slug": "nam-sach"
+      },
+      {
+        "code": "HD_THANH_HA",
+        "name": "Thanh Hà",
+        "slug": "thanh-ha"
+      },
+      {
+        "code": "HD_THANH_MIEN",
+        "name": "Thanh Miện",
+        "slug": "thanh-mien"
+      },
+      {
+        "code": "HD_TU_KY",
+        "name": "Tứ Kỳ",
+        "slug": "tu-ky"
+      },
+      {
+        "code": "HD_BINH_GIANG",
+        "name": "Bình Giang",
+        "slug": "binh-giang"
+      }
+    ]
+  },
+  {
+    "code": "HY",
+    "name": "Hưng Yên",
+    "slug": "hung-yen",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "HY_HUNG_YEN",
+        "name": "Hưng Yên",
+        "slug": "hung-yen"
+      },
+      {
+        "code": "HY_MY_HAO",
+        "name": "Mỹ Hào",
+        "slug": "my-hao"
+      },
+      {
+        "code": "HY_VAN_LAM",
+        "name": "Văn Lâm",
+        "slug": "van-lam"
+      },
+      {
+        "code": "HY_VAN_GIANG",
+        "name": "Văn Giang",
+        "slug": "van-giang"
+      },
+      {
+        "code": "HY_YEN_MY",
+        "name": "Yên Mỹ",
+        "slug": "yen-my"
+      },
+      {
+        "code": "HY_KHOAI_CHAU",
+        "name": "Khoái Châu",
+        "slug": "khoai-chau"
+      },
+      {
+        "code": "HY_AN_THI",
+        "name": "Ân Thi",
+        "slug": "an-thi"
+      },
+      {
+        "code": "HY_KIM_DONG",
+        "name": "Kim Động",
+        "slug": "kim-dong"
+      },
+      {
+        "code": "HY_TIEN_LU",
+        "name": "Tiên Lữ",
+        "slug": "tien-lu"
+      },
+      {
+        "code": "HY_PHU_CU",
+        "name": "Phù Cừ",
+        "slug": "phu-cu"
+      }
+    ]
+  },
+  {
+    "code": "VP",
+    "name": "Vĩnh Phúc",
+    "slug": "vinh-phuc",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "VP_VINH_YEN",
+        "name": "Vĩnh Yên",
+        "slug": "vinh-yen"
+      },
+      {
+        "code": "VP_PHUC_YEN",
+        "name": "Phúc Yên",
+        "slug": "phuc-yen"
+      },
+      {
+        "code": "VP_BINH_XUYEN",
+        "name": "Bình Xuyên",
+        "slug": "binh-xuyen"
+      },
+      {
+        "code": "VP_LAP_THACH",
+        "name": "Lập Thạch",
+        "slug": "lap-thach"
+      },
+      {
+        "code": "VP_SONG_LO",
+        "name": "Sông Lô",
+        "slug": "song-lo"
+      },
+      {
+        "code": "VP_TAM_DUONG",
+        "name": "Tam Dương",
+        "slug": "tam-duong"
+      },
+      {
+        "code": "VP_TAM_DAO",
+        "name": "Tam Đảo",
+        "slug": "tam-dao"
+      },
+      {
+        "code": "VP_VINH_TUONG",
+        "name": "Vĩnh Tường",
+        "slug": "vinh-tuong"
+      },
+      {
+        "code": "VP_YEN_LAC",
+        "name": "Yên Lạc",
+        "slug": "yen-lac"
+      }
+    ]
+  },
+  {
+    "code": "TN",
+    "name": "Thái Nguyên",
+    "slug": "thai-nguyen",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "TN_THAI_NGUYEN",
+        "name": "Thái Nguyên",
+        "slug": "thai-nguyen"
+      },
+      {
+        "code": "TN_SONG_CONG",
+        "name": "Sông Công",
+        "slug": "song-cong"
+      },
+      {
+        "code": "TN_PHO_YEN",
+        "name": "Phổ Yên",
+        "slug": "pho-yen"
+      },
+      {
+        "code": "TN_PHU_BINH",
+        "name": "Phú Bình",
+        "slug": "phu-binh"
+      },
+      {
+        "code": "TN_DONG_HY",
+        "name": "Đồng Hỷ",
+        "slug": "dong-hy"
+      },
+      {
+        "code": "TN_VO_NHAI",
+        "name": "Võ Nhai",
+        "slug": "vo-nhai"
+      },
+      {
+        "code": "TN_DINH_HOA",
+        "name": "Định Hóa",
+        "slug": "dinh-hoa"
+      },
+      {
+        "code": "TN_DAI_TU",
+        "name": "Đại Từ",
+        "slug": "dai-tu"
+      },
+      {
+        "code": "TN_PHU_LUONG",
+        "name": "Phú Lương",
+        "slug": "phu-luong"
+      }
+    ]
+  },
+  {
+    "code": "PT",
+    "name": "Phú Thọ",
+    "slug": "phu-tho",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "PT_VIET_TRI",
+        "name": "Việt Trì",
+        "slug": "viet-tri"
+      },
+      {
+        "code": "PT_PHU_THO",
+        "name": "Phú Thọ",
+        "slug": "phu-tho"
+      },
+      {
+        "code": "PT_LAM_THAO",
+        "name": "Lâm Thao",
+        "slug": "lam-thao"
+      },
+      {
+        "code": "PT_PHU_NINH",
+        "name": "Phù Ninh",
+        "slug": "phu-ninh"
+      },
+      {
+        "code": "PT_CAM_KHE",
+        "name": "Cẩm Khê",
+        "slug": "cam-khe"
+      },
+      {
+        "code": "PT_THANH_BA",
+        "name": "Thanh Ba",
+        "slug": "thanh-ba"
+      },
+      {
+        "code": "PT_HA_HOA",
+        "name": "Hạ Hòa",
+        "slug": "ha-hoa"
+      },
+      {
+        "code": "PT_DOAN_HUNG",
+        "name": "Đoan Hùng",
+        "slug": "doan-hung"
+      },
+      {
+        "code": "PT_TAM_NONG",
+        "name": "Tam Nông",
+        "slug": "tam-nong"
+      },
+      {
+        "code": "PT_THANH_THUY",
+        "name": "Thanh Thủy",
+        "slug": "thanh-thuy"
+      },
+      {
+        "code": "PT_THANH_SON",
+        "name": "Thanh Sơn",
+        "slug": "thanh-son"
+      },
+      {
+        "code": "PT_YEN_LAP",
+        "name": "Yên Lập",
+        "slug": "yen-lap"
+      },
+      {
+        "code": "PT_TAN_SON",
+        "name": "Tân Sơn",
+        "slug": "tan-son"
+      }
+    ]
+  },
+  {
+    "code": "ND",
+    "name": "Nam Định",
+    "slug": "nam-dinh",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "ND_NAM_DINH",
+        "name": "Nam Định",
+        "slug": "nam-dinh"
+      },
+      {
+        "code": "ND_MY_LOC",
+        "name": "Mỹ Lộc",
+        "slug": "my-loc"
+      },
+      {
+        "code": "ND_VU_BAN",
+        "name": "Vụ Bản",
+        "slug": "vu-ban"
+      },
+      {
+        "code": "ND_Y_YEN",
+        "name": "Ý Yên",
+        "slug": "y-yen"
+      },
+      {
+        "code": "ND_NGHIA_HUNG",
+        "name": "Nghĩa Hưng",
+        "slug": "nghia-hung"
+      },
+      {
+        "code": "ND_NAM_TRUC",
+        "name": "Nam Trực",
+        "slug": "nam-truc"
+      },
+      {
+        "code": "ND_TRUC_NINH",
+        "name": "Trực Ninh",
+        "slug": "truc-ninh"
+      },
+      {
+        "code": "ND_XUAN_TRUONG",
+        "name": "Xuân Trường",
+        "slug": "xuan-truong"
+      },
+      {
+        "code": "ND_GIAO_THUY",
+        "name": "Giao Thủy",
+        "slug": "giao-thuy"
+      },
+      {
+        "code": "ND_HAI_HAU",
+        "name": "Hải Hậu",
+        "slug": "hai-hau"
+      }
+    ]
+  },
+  {
+    "code": "TB",
+    "name": "Thái Bình",
+    "slug": "thai-binh",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "TB_THAI_BINH",
+        "name": "Thái Bình",
+        "slug": "thai-binh"
+      },
+      {
+        "code": "TB_QUYNH_PHU",
+        "name": "Quỳnh Phụ",
+        "slug": "quynh-phu"
+      },
+      {
+        "code": "TB_HUNG_HA",
+        "name": "Hưng Hà",
+        "slug": "hung-ha"
+      },
+      {
+        "code": "TB_DONG_HUNG",
+        "name": "Đông Hưng",
+        "slug": "dong-hung"
+      },
+      {
+        "code": "TB_THAI_THUY",
+        "name": "Thái Thụy",
+        "slug": "thai-thuy"
+      },
+      {
+        "code": "TB_TIEN_HAI",
+        "name": "Tiền Hải",
+        "slug": "tien-hai"
+      },
+      {
+        "code": "TB_KIEN_XUONG",
+        "name": "Kiến Xương",
+        "slug": "kien-xuong"
+      },
+      {
+        "code": "TB_VU_THU",
+        "name": "Vũ Thư",
+        "slug": "vu-thu"
+      }
+    ]
+  },
+  {
+    "code": "NB",
+    "name": "Ninh Bình",
+    "slug": "ninh-binh",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "NB_NINH_BINH",
+        "name": "Ninh Bình",
+        "slug": "ninh-binh"
+      },
+      {
+        "code": "NB_TAM_DIEP",
+        "name": "Tam Điệp",
+        "slug": "tam-diep"
+      },
+      {
+        "code": "NB_GIA_VIEN",
+        "name": "Gia Viễn",
+        "slug": "gia-vien"
+      },
+      {
+        "code": "NB_HOA_LU",
+        "name": "Hoa Lư",
+        "slug": "hoa-lu"
+      },
+      {
+        "code": "NB_KIM_SON",
+        "name": "Kim Sơn",
+        "slug": "kim-son"
+      },
+      {
+        "code": "NB_NHO_QUAN",
+        "name": "Nho Quan",
+        "slug": "nho-quan"
+      },
+      {
+        "code": "NB_YEN_KHANH",
+        "name": "Yên Khánh",
+        "slug": "yen-khanh"
+      },
+      {
+        "code": "NB_YEN_MO",
+        "name": "Yên Mô",
+        "slug": "yen-mo"
+      }
+    ]
+  },
+  {
+    "code": "HNA",
+    "name": "Hà Nam",
+    "slug": "ha-nam",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "HNA_PHU_LY",
+        "name": "Phủ Lý",
+        "slug": "phu-ly"
+      },
+      {
+        "code": "HNA_DUY_TIEN",
+        "name": "Duy Tiên",
+        "slug": "duy-tien"
+      },
+      {
+        "code": "HNA_KIM_BANG",
+        "name": "Kim Bảng",
+        "slug": "kim-bang"
+      },
+      {
+        "code": "HNA_THANH_LIEM",
+        "name": "Thanh Liêm",
+        "slug": "thanh-liem"
+      },
+      {
+        "code": "HNA_BINH_LUC",
+        "name": "Bình Lục",
+        "slug": "binh-luc"
+      },
+      {
+        "code": "HNA_LY_NHAN",
+        "name": "Lý Nhân",
+        "slug": "ly-nhan"
+      }
+    ]
+  },
+  {
+    "code": "LC",
+    "name": "Lào Cai",
+    "slug": "lao-cai",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "LC_LAO_CAI",
+        "name": "Lào Cai",
+        "slug": "lao-cai"
+      },
+      {
+        "code": "LC_SA_PA",
+        "name": "Sa Pa",
+        "slug": "sa-pa"
+      },
+      {
+        "code": "LC_BAT_XAT",
+        "name": "Bát Xát",
+        "slug": "bat-xat"
+      },
+      {
+        "code": "LC_BAO_THANG",
+        "name": "Bảo Thắng",
+        "slug": "bao-thang"
+      },
+      {
+        "code": "LC_BAO_YEN",
+        "name": "Bảo Yên",
+        "slug": "bao-yen"
+      },
+      {
+        "code": "LC_BAC_HA",
+        "name": "Bắc Hà",
+        "slug": "bac-ha"
+      },
+      {
+        "code": "LC_VAN_BAN",
+        "name": "Văn Bàn",
+        "slug": "van-ban"
+      },
+      {
+        "code": "LC_MUONG_KHUONG",
+        "name": "Mường Khương",
+        "slug": "muong-khuong"
+      },
+      {
+        "code": "LC_SI_MA_CAI",
+        "name": "Si Ma Cai",
+        "slug": "si-ma-cai"
+      }
+    ]
+  },
+  {
+    "code": "YB",
+    "name": "Yên Bái",
+    "slug": "yen-bai",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "YB_YEN_BAI",
+        "name": "Yên Bái",
+        "slug": "yen-bai"
+      },
+      {
+        "code": "YB_NGHIA_LO",
+        "name": "Nghĩa Lộ",
+        "slug": "nghia-lo"
+      },
+      {
+        "code": "YB_LUC_YEN",
+        "name": "Lục Yên",
+        "slug": "luc-yen"
+      },
+      {
+        "code": "YB_VAN_YEN",
+        "name": "Văn Yên",
+        "slug": "van-yen"
+      },
+      {
+        "code": "YB_MU_CANG_CHAI",
+        "name": "Mù Cang Chải",
+        "slug": "mu-cang-chai"
+      },
+      {
+        "code": "YB_TRAN_YEN",
+        "name": "Trấn Yên",
+        "slug": "tran-yen"
+      },
+      {
+        "code": "YB_TRAM_TAU",
+        "name": "Trạm Tấu",
+        "slug": "tram-tau"
+      },
+      {
+        "code": "YB_VAN_CHAN",
+        "name": "Văn Chấn",
+        "slug": "van-chan"
+      },
+      {
+        "code": "YB_YEN_BINH",
+        "name": "Yên Bình",
+        "slug": "yen-binh"
+      }
+    ]
+  },
+  {
+    "code": "HG",
+    "name": "Hà Giang",
+    "slug": "ha-giang",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "HG_HA_GIANG",
+        "name": "Hà Giang",
+        "slug": "ha-giang"
+      },
+      {
+        "code": "HG_DONG_VAN",
+        "name": "Đồng Văn",
+        "slug": "dong-van"
+      },
+      {
+        "code": "HG_MEO_VAC",
+        "name": "Mèo Vạc",
+        "slug": "meo-vac"
+      },
+      {
+        "code": "HG_YEN_MINH",
+        "name": "Yên Minh",
+        "slug": "yen-minh"
+      },
+      {
+        "code": "HG_QUAN_BA",
+        "name": "Quản Bạ",
+        "slug": "quan-ba"
+      },
+      {
+        "code": "HG_VI_XUYEN",
+        "name": "Vị Xuyên",
+        "slug": "vi-xuyen"
+      },
+      {
+        "code": "HG_BAC_ME",
+        "name": "Bắc Mê",
+        "slug": "bac-me"
+      },
+      {
+        "code": "HG_HOANG_SU_PHI",
+        "name": "Hoàng Su Phì",
+        "slug": "hoang-su-phi"
+      },
+      {
+        "code": "HG_XIN_MAN",
+        "name": "Xín Mần",
+        "slug": "xin-man"
+      },
+      {
+        "code": "HG_BAC_QUANG",
+        "name": "Bắc Quang",
+        "slug": "bac-quang"
+      },
+      {
+        "code": "HG_QUANG_BINH",
+        "name": "Quang Bình",
+        "slug": "quang-binh"
+      }
+    ]
+  },
+  {
+    "code": "CB",
+    "name": "Cao Bằng",
+    "slug": "cao-bang",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "CB_CAO_BANG",
+        "name": "Cao Bằng",
+        "slug": "cao-bang"
+      },
+      {
+        "code": "CB_BAO_LAC",
+        "name": "Bảo Lạc",
+        "slug": "bao-lac"
+      },
+      {
+        "code": "CB_THONG_NONG",
+        "name": "Thông Nông",
+        "slug": "thong-nong"
+      },
+      {
+        "code": "CB_HA_QUANG",
+        "name": "Hà Quảng",
+        "slug": "ha-quang"
+      },
+      {
+        "code": "CB_TRA_LINH",
+        "name": "Trà Lĩnh",
+        "slug": "tra-linh"
+      },
+      {
+        "code": "CB_TRUNG_KHANH",
+        "name": "Trùng Khánh",
+        "slug": "trung-khanh"
+      },
+      {
+        "code": "CB_HA_LANG",
+        "name": "Hạ Lang",
+        "slug": "ha-lang"
+      },
+      {
+        "code": "CB_QUANG_UYEN",
+        "name": "Quảng Uyên",
+        "slug": "quang-uyen"
+      },
+      {
+        "code": "CB_PHUC_HOA",
+        "name": "Phục Hòa",
+        "slug": "phuc-hoa"
+      },
+      {
+        "code": "CB_HOA_AN",
+        "name": "Hòa An",
+        "slug": "hoa-an"
+      },
+      {
+        "code": "CB_NGUYEN_BINH",
+        "name": "Nguyên Bình",
+        "slug": "nguyen-binh"
+      },
+      {
+        "code": "CB_THACH_AN",
+        "name": "Thạch An",
+        "slug": "thach-an"
+      },
+      {
+        "code": "CB_BAO_LAM",
+        "name": "Bảo Lâm",
+        "slug": "bao-lam"
+      }
+    ]
+  },
+  {
+    "code": "BK",
+    "name": "Bắc Kạn",
+    "slug": "bac-kan",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "BK_BAC_KAN",
+        "name": "Bắc Kạn",
+        "slug": "bac-kan"
+      },
+      {
+        "code": "BK_PAC_NAM",
+        "name": "Pác Nặm",
+        "slug": "pac-nam"
+      },
+      {
+        "code": "BK_BA_BE",
+        "name": "Ba Bể",
+        "slug": "ba-be"
+      },
+      {
+        "code": "BK_NGAN_SON",
+        "name": "Ngân Sơn",
+        "slug": "ngan-son"
+      },
+      {
+        "code": "BK_BACH_THONG",
+        "name": "Bạch Thông",
+        "slug": "bach-thong"
+      },
+      {
+        "code": "BK_CHO_DON",
+        "name": "Chợ Đồn",
+        "slug": "cho-don"
+      },
+      {
+        "code": "BK_CHO_MOI",
+        "name": "Chợ Mới",
+        "slug": "cho-moi"
+      },
+      {
+        "code": "BK_NA_RI",
+        "name": "Na Rì",
+        "slug": "na-ri"
+      }
+    ]
+  },
+  {
+    "code": "LS",
+    "name": "Lạng Sơn",
+    "slug": "lang-son",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "LS_LANG_SON",
+        "name": "Lạng Sơn",
+        "slug": "lang-son"
+      },
+      {
+        "code": "LS_TRANG_DINH",
+        "name": "Tràng Định",
+        "slug": "trang-dinh"
+      },
+      {
+        "code": "LS_BINH_GIA",
+        "name": "Bình Gia",
+        "slug": "binh-gia"
+      },
+      {
+        "code": "LS_VAN_LANG",
+        "name": "Văn Lãng",
+        "slug": "van-lang"
+      },
+      {
+        "code": "LS_CAO_LOC",
+        "name": "Cao Lộc",
+        "slug": "cao-loc"
+      },
+      {
+        "code": "LS_VAN_QUAN",
+        "name": "Văn Quan",
+        "slug": "van-quan"
+      },
+      {
+        "code": "LS_BAC_SON",
+        "name": "Bắc Sơn",
+        "slug": "bac-son"
+      },
+      {
+        "code": "LS_HUU_LUNG",
+        "name": "Hữu Lũng",
+        "slug": "huu-lung"
+      },
+      {
+        "code": "LS_CHI_LANG",
+        "name": "Chi Lăng",
+        "slug": "chi-lang"
+      },
+      {
+        "code": "LS_LOC_BINH",
+        "name": "Lộc Bình",
+        "slug": "loc-binh"
+      },
+      {
+        "code": "LS_DINH_LAP",
+        "name": "Đình Lập",
+        "slug": "dinh-lap"
+      }
+    ]
+  },
+  {
+    "code": "TQ",
+    "name": "Tuyên Quang",
+    "slug": "tuyen-quang",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "TQ_TUYEN_QUANG",
+        "name": "Tuyên Quang",
+        "slug": "tuyen-quang"
+      },
+      {
+        "code": "TQ_LAM_BINH",
+        "name": "Lâm Bình",
+        "slug": "lam-binh"
+      },
+      {
+        "code": "TQ_NA_HANG",
+        "name": "Nà Hang",
+        "slug": "na-hang"
+      },
+      {
+        "code": "TQ_CHIEM_HOA",
+        "name": "Chiêm Hóa",
+        "slug": "chiem-hoa"
+      },
+      {
+        "code": "TQ_HAM_YEN",
+        "name": "Hàm Yên",
+        "slug": "ham-yen"
+      },
+      {
+        "code": "TQ_YEN_SON",
+        "name": "Yên Sơn",
+        "slug": "yen-son"
+      },
+      {
+        "code": "TQ_SON_DUONG",
+        "name": "Sơn Dương",
+        "slug": "son-duong"
+      }
+    ]
+  },
+  {
+    "code": "HB",
+    "name": "Hòa Bình",
+    "slug": "hoa-binh",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "HB_HOA_BINH",
+        "name": "Hòa Bình",
+        "slug": "hoa-binh"
+      },
+      {
+        "code": "HB_DA_BAC",
+        "name": "Đà Bắc",
+        "slug": "da-bac"
+      },
+      {
+        "code": "HB_KY_SON",
+        "name": "Kỳ Sơn",
+        "slug": "ky-son"
+      },
+      {
+        "code": "HB_LUONG_SON",
+        "name": "Lương Sơn",
+        "slug": "luong-son"
+      },
+      {
+        "code": "HB_KIM_BOI",
+        "name": "Kim Bôi",
+        "slug": "kim-boi"
+      },
+      {
+        "code": "HB_CAO_PHONG",
+        "name": "Cao Phong",
+        "slug": "cao-phong"
+      },
+      {
+        "code": "HB_TAN_LAC",
+        "name": "Tân Lạc",
+        "slug": "tan-lac"
+      },
+      {
+        "code": "HB_MAI_CHAU",
+        "name": "Mai Châu",
+        "slug": "mai-chau"
+      },
+      {
+        "code": "HB_LAC_SON",
+        "name": "Lạc Sơn",
+        "slug": "lac-son"
+      },
+      {
+        "code": "HB_YEN_THUY",
+        "name": "Yên Thủy",
+        "slug": "yen-thuy"
+      },
+      {
+        "code": "HB_LAC_THUY",
+        "name": "Lạc Thủy",
+        "slug": "lac-thuy"
+      }
+    ]
+  },
+  {
+    "code": "SL",
+    "name": "Sơn La",
+    "slug": "son-la",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "SL_SON_LA",
+        "name": "Sơn La",
+        "slug": "son-la"
+      },
+      {
+        "code": "SL_QUYNH_NHAI",
+        "name": "Quỳnh Nhai",
+        "slug": "quynh-nhai"
+      },
+      {
+        "code": "SL_MUONG_LA",
+        "name": "Mường La",
+        "slug": "muong-la"
+      },
+      {
+        "code": "SL_THUAN_CHAU",
+        "name": "Thuận Châu",
+        "slug": "thuan-chau"
+      },
+      {
+        "code": "SL_BAC_YEN",
+        "name": "Bắc Yên",
+        "slug": "bac-yen"
+      },
+      {
+        "code": "SL_PHU_YEN",
+        "name": "Phù Yên",
+        "slug": "phu-yen"
+      },
+      {
+        "code": "SL_MOC_CHAU",
+        "name": "Mộc Châu",
+        "slug": "moc-chau"
+      },
+      {
+        "code": "SL_YEN_CHAU",
+        "name": "Yên Châu",
+        "slug": "yen-chau"
+      },
+      {
+        "code": "SL_MAI_SON",
+        "name": "Mai Sơn",
+        "slug": "mai-son"
+      },
+      {
+        "code": "SL_SONG_MA",
+        "name": "Sông Mã",
+        "slug": "song-ma"
+      },
+      {
+        "code": "SL_SOP_COP",
+        "name": "Sốp Cộp",
+        "slug": "sop-cop"
+      },
+      {
+        "code": "SL_VAN_HO",
+        "name": "Vân Hồ",
+        "slug": "van-ho"
+      }
+    ]
+  },
+  {
+    "code": "DB",
+    "name": "Điện Biên",
+    "slug": "dien-bien",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "DB_DIEN_BIEN_PH",
+        "name": "Điện Biên Phủ",
+        "slug": "dien-bien-phu"
+      },
+      {
+        "code": "DB_MUONG_LAY",
+        "name": "Mường Lay",
+        "slug": "muong-lay"
+      },
+      {
+        "code": "DB_MUONG_NHE",
+        "name": "Mường Nhé",
+        "slug": "muong-nhe"
+      },
+      {
+        "code": "DB_MUONG_CHA",
+        "name": "Mường Chà",
+        "slug": "muong-cha"
+      },
+      {
+        "code": "DB_TUA_CHUA",
+        "name": "Tủa Chùa",
+        "slug": "tua-chua"
+      },
+      {
+        "code": "DB_TUAN_GIAO",
+        "name": "Tuần Giáo",
+        "slug": "tuan-giao"
+      },
+      {
+        "code": "DB_DIEN_BIEN",
+        "name": "Điện Biên",
+        "slug": "dien-bien"
+      },
+      {
+        "code": "DB_DIEN_BIEN_DO",
+        "name": "Điện Biên Đông",
+        "slug": "dien-bien-dong"
+      },
+      {
+        "code": "DB_MUONG_ANG",
+        "name": "Mường Ảng",
+        "slug": "muong-ang"
+      },
+      {
+        "code": "DB_NAM_PO",
+        "name": "Nậm Pồ",
+        "slug": "nam-po"
+      }
+    ]
+  },
+  {
+    "code": "LCH",
+    "name": "Lai Châu",
+    "slug": "lai-chau",
+    "region": "BAC",
+    "districts": [
+      {
+        "code": "LCH_LAI_CHAU",
+        "name": "Lai Châu",
+        "slug": "lai-chau"
+      },
+      {
+        "code": "LCH_TAM_DUONG",
+        "name": "Tam Đường",
+        "slug": "tam-duong"
+      },
+      {
+        "code": "LCH_MUONG_TE",
+        "name": "Mường Tè",
+        "slug": "muong-te"
+      },
+      {
+        "code": "LCH_SIN_HO",
+        "name": "Sìn Hồ",
+        "slug": "sin-ho"
+      },
+      {
+        "code": "LCH_PHONG_THO",
+        "name": "Phong Thổ",
+        "slug": "phong-tho"
+      },
+      {
+        "code": "LCH_THAN_UYEN",
+        "name": "Than Uyên",
+        "slug": "than-uyen"
+      },
+      {
+        "code": "LCH_TAN_UYEN",
+        "name": "Tân Uyên",
+        "slug": "tan-uyen"
+      },
+      {
+        "code": "LCH_NAM_NHUN",
+        "name": "Nậm Nhùn",
+        "slug": "nam-nhun"
+      }
+    ]
+  },
+  {
+    "code": "TH",
+    "name": "Thanh Hóa",
+    "slug": "thanh-hoa",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "TH_THANH_HOA",
+        "name": "Thanh Hóa",
+        "slug": "thanh-hoa"
+      },
+      {
+        "code": "TH_SAM_SON",
+        "name": "Sầm Sơn",
+        "slug": "sam-son"
+      },
+      {
+        "code": "TH_BIM_SON",
+        "name": "Bỉm Sơn",
+        "slug": "bim-son"
+      },
+      {
+        "code": "TH_NGHI_SON",
+        "name": "Nghi Sơn",
+        "slug": "nghi-son"
+      },
+      {
+        "code": "TH_HA_TRUNG",
+        "name": "Hà Trung",
+        "slug": "ha-trung"
+      },
+      {
+        "code": "TH_HAU_LOC",
+        "name": "Hậu Lộc",
+        "slug": "hau-loc"
+      },
+      {
+        "code": "TH_NGA_SON",
+        "name": "Nga Sơn",
+        "slug": "nga-son"
+      },
+      {
+        "code": "TH_HOANG_HOA",
+        "name": "Hoằng Hóa",
+        "slug": "hoang-hoa"
+      },
+      {
+        "code": "TH_QUANG_XUONG",
+        "name": "Quảng Xương",
+        "slug": "quang-xuong"
+      },
+      {
+        "code": "TH_NONG_CONG",
+        "name": "Nông Cống",
+        "slug": "nong-cong"
+      },
+      {
+        "code": "TH_TRIEU_SON",
+        "name": "Triệu Sơn",
+        "slug": "trieu-son"
+      },
+      {
+        "code": "TH_THO_XUAN",
+        "name": "Thọ Xuân",
+        "slug": "tho-xuan"
+      },
+      {
+        "code": "TH_YEN_DINH",
+        "name": "Yên Định",
+        "slug": "yen-dinh"
+      },
+      {
+        "code": "TH_THIEU_HOA",
+        "name": "Thiệu Hóa",
+        "slug": "thieu-hoa"
+      },
+      {
+        "code": "TH_VINH_LOC",
+        "name": "Vĩnh Lộc",
+        "slug": "vinh-loc"
+      },
+      {
+        "code": "TH_THACH_THANH",
+        "name": "Thạch Thành",
+        "slug": "thach-thanh"
+      },
+      {
+        "code": "TH_CAM_THUY",
+        "name": "Cẩm Thủy",
+        "slug": "cam-thuy"
+      },
+      {
+        "code": "TH_NGOC_LAC",
+        "name": "Ngọc Lặc",
+        "slug": "ngoc-lac"
+      },
+      {
+        "code": "TH_LANG_CHANH",
+        "name": "Lang Chánh",
+        "slug": "lang-chanh"
+      },
+      {
+        "code": "TH_NHU_XUAN",
+        "name": "Như Xuân",
+        "slug": "nhu-xuan"
+      },
+      {
+        "code": "TH_NHU_THANH",
+        "name": "Như Thanh",
+        "slug": "nhu-thanh"
+      },
+      {
+        "code": "TH_THUONG_XUAN",
+        "name": "Thường Xuân",
+        "slug": "thuong-xuan"
+      },
+      {
+        "code": "TH_BA_THUOC",
+        "name": "Bá Thước",
+        "slug": "ba-thuoc"
+      },
+      {
+        "code": "TH_QUAN_HOA",
+        "name": "Quan Hóa",
+        "slug": "quan-hoa"
+      },
+      {
+        "code": "TH_QUAN_SON",
+        "name": "Quan Sơn",
+        "slug": "quan-son"
+      },
+      {
+        "code": "TH_MUONG_LAT",
+        "name": "Mường Lát",
+        "slug": "muong-lat"
+      }
+    ]
+  },
+  {
+    "code": "NA",
+    "name": "Nghệ An",
+    "slug": "nghe-an",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "NA_VINH",
+        "name": "Vinh",
+        "slug": "vinh"
+      },
+      {
+        "code": "NA_CUA_LO",
+        "name": "Cửa Lò",
+        "slug": "cua-lo"
+      },
+      {
+        "code": "NA_HOANG_MAI",
+        "name": "Hoàng Mai",
+        "slug": "hoang-mai"
+      },
+      {
+        "code": "NA_THAI_HOA",
+        "name": "Thái Hòa",
+        "slug": "thai-hoa"
+      },
+      {
+        "code": "NA_QUYNH_LUU",
+        "name": "Quỳnh Lưu",
+        "slug": "quynh-luu"
+      },
+      {
+        "code": "NA_DIEN_CHAU",
+        "name": "Diễn Châu",
+        "slug": "dien-chau"
+      },
+      {
+        "code": "NA_NGHI_LOC",
+        "name": "Nghi Lộc",
+        "slug": "nghi-loc"
+      },
+      {
+        "code": "NA_YEN_THANH",
+        "name": "Yên Thành",
+        "slug": "yen-thanh"
+      },
+      {
+        "code": "NA_HUNG_NGUYEN",
+        "name": "Hưng Nguyên",
+        "slug": "hung-nguyen"
+      },
+      {
+        "code": "NA_NGHIA_DAN",
+        "name": "Nghĩa Đàn",
+        "slug": "nghia-dan"
+      },
+      {
+        "code": "NA_QUY_HOP",
+        "name": "Quỳ Hợp",
+        "slug": "quy-hop"
+      },
+      {
+        "code": "NA_QUY_CHAU",
+        "name": "Quỳ Châu",
+        "slug": "quy-chau"
+      },
+      {
+        "code": "NA_QUE_PHONG",
+        "name": "Quế Phong",
+        "slug": "que-phong"
+      },
+      {
+        "code": "NA_TAN_KY",
+        "name": "Tân Kỳ",
+        "slug": "tan-ky"
+      },
+      {
+        "code": "NA_DO_LUONG",
+        "name": "Đô Lương",
+        "slug": "do-luong"
+      },
+      {
+        "code": "NA_ANH_SON",
+        "name": "Anh Sơn",
+        "slug": "anh-son"
+      },
+      {
+        "code": "NA_CON_CUONG",
+        "name": "Con Cuông",
+        "slug": "con-cuong"
+      },
+      {
+        "code": "NA_TUONG_DUONG",
+        "name": "Tương Dương",
+        "slug": "tuong-duong"
+      },
+      {
+        "code": "NA_KY_SON",
+        "name": "Kỳ Sơn",
+        "slug": "ky-son"
+      },
+      {
+        "code": "NA_NAM_DAN",
+        "name": "Nam Đàn",
+        "slug": "nam-dan"
+      },
+      {
+        "code": "NA_THANH_CHUONG",
+        "name": "Thanh Chương",
+        "slug": "thanh-chuong"
+      }
+    ]
+  },
+  {
+    "code": "HT",
+    "name": "Hà Tĩnh",
+    "slug": "ha-tinh",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "HT_HA_TINH",
+        "name": "Hà Tĩnh",
+        "slug": "ha-tinh"
+      },
+      {
+        "code": "HT_HONG_LINH",
+        "name": "Hồng Lĩnh",
+        "slug": "hong-linh"
+      },
+      {
+        "code": "HT_KY_ANH",
+        "name": "Kỳ Anh",
+        "slug": "ky-anh"
+      },
+      {
+        "code": "HT_NGHI_XUAN",
+        "name": "Nghi Xuân",
+        "slug": "nghi-xuan"
+      },
+      {
+        "code": "HT_DUC_THO",
+        "name": "Đức Thọ",
+        "slug": "duc-tho"
+      },
+      {
+        "code": "HT_HUONG_SON",
+        "name": "Hương Sơn",
+        "slug": "huong-son"
+      },
+      {
+        "code": "HT_HUONG_KHE",
+        "name": "Hương Khê",
+        "slug": "huong-khe"
+      },
+      {
+        "code": "HT_VU_QUANG",
+        "name": "Vũ Quang",
+        "slug": "vu-quang"
+      },
+      {
+        "code": "HT_CAN_LOC",
+        "name": "Can Lộc",
+        "slug": "can-loc"
+      },
+      {
+        "code": "HT_LOC_HA",
+        "name": "Lộc Hà",
+        "slug": "loc-ha"
+      },
+      {
+        "code": "HT_THACH_HA",
+        "name": "Thạch Hà",
+        "slug": "thach-ha"
+      },
+      {
+        "code": "HT_CAM_XUYEN",
+        "name": "Cẩm Xuyên",
+        "slug": "cam-xuyen"
+      }
+    ]
+  },
+  {
+    "code": "QB",
+    "name": "Quảng Bình",
+    "slug": "quang-binh",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "QB_DONG_HOI",
+        "name": "Đồng Hới",
+        "slug": "dong-hoi"
+      },
+      {
+        "code": "QB_BA_DON",
+        "name": "Ba Đồn",
+        "slug": "ba-don"
+      },
+      {
+        "code": "QB_MINH_HOA",
+        "name": "Minh Hóa",
+        "slug": "minh-hoa"
+      },
+      {
+        "code": "QB_TUYEN_HOA",
+        "name": "Tuyên Hóa",
+        "slug": "tuyen-hoa"
+      },
+      {
+        "code": "QB_QUANG_TRACH",
+        "name": "Quảng Trạch",
+        "slug": "quang-trach"
+      },
+      {
+        "code": "QB_BO_TRACH",
+        "name": "Bố Trạch",
+        "slug": "bo-trach"
+      },
+      {
+        "code": "QB_QUANG_NINH",
+        "name": "Quảng Ninh",
+        "slug": "quang-ninh"
+      },
+      {
+        "code": "QB_LE_THUY",
+        "name": "Lệ Thủy",
+        "slug": "le-thuy"
+      }
+    ]
+  },
+  {
+    "code": "QT",
+    "name": "Quảng Trị",
+    "slug": "quang-tri",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "QT_DONG_HA",
+        "name": "Đông Hà",
+        "slug": "dong-ha"
+      },
+      {
+        "code": "QT_QUANG_TRI",
+        "name": "Quảng Trị",
+        "slug": "quang-tri"
+      },
+      {
+        "code": "QT_VINH_LINH",
+        "name": "Vĩnh Linh",
+        "slug": "vinh-linh"
+      },
+      {
+        "code": "QT_HUONG_HOA",
+        "name": "Hướng Hóa",
+        "slug": "huong-hoa"
+      },
+      {
+        "code": "QT_GIO_LINH",
+        "name": "Gio Linh",
+        "slug": "gio-linh"
+      },
+      {
+        "code": "QT_DAKRONG",
+        "name": "Đakrông",
+        "slug": "dakrong"
+      },
+      {
+        "code": "QT_CAM_LO",
+        "name": "Cam Lộ",
+        "slug": "cam-lo"
+      },
+      {
+        "code": "QT_TRIEU_PHONG",
+        "name": "Triệu Phong",
+        "slug": "trieu-phong"
+      },
+      {
+        "code": "QT_HAI_LANG",
+        "name": "Hải Lăng",
+        "slug": "hai-lang"
+      },
+      {
+        "code": "QT_CON_CO",
+        "name": "Cồn Cỏ",
+        "slug": "con-co"
+      }
+    ]
+  },
+  {
+    "code": "TTH",
+    "name": "Thừa Thiên Huế",
+    "slug": "thua-thien-hue",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "TTH_HUE",
+        "name": "Huế",
+        "slug": "hue"
+      },
+      {
+        "code": "TTH_HUONG_THUY",
+        "name": "Hương Thủy",
+        "slug": "huong-thuy"
+      },
+      {
+        "code": "TTH_HUONG_TRA",
+        "name": "Hương Trà",
+        "slug": "huong-tra"
+      },
+      {
+        "code": "TTH_PHONG_DIEN",
+        "name": "Phong Điền",
+        "slug": "phong-dien"
+      },
+      {
+        "code": "TTH_QUANG_DIEN",
+        "name": "Quảng Điền",
+        "slug": "quang-dien"
+      },
+      {
+        "code": "TTH_PHU_VANG",
+        "name": "Phú Vang",
+        "slug": "phu-vang"
+      },
+      {
+        "code": "TTH_PHU_LOC",
+        "name": "Phú Lộc",
+        "slug": "phu-loc"
+      },
+      {
+        "code": "TTH_A_LUOI",
+        "name": "A Lưới",
+        "slug": "a-luoi"
+      },
+      {
+        "code": "TTH_NAM_DONG",
+        "name": "Nam Đông",
+        "slug": "nam-dong"
+      }
+    ]
+  },
+  {
+    "code": "DNG",
+    "name": "Đà Nẵng",
+    "slug": "da-nang",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "DNG_HAI_CHAU",
+        "name": "Hải Châu",
+        "slug": "hai-chau"
+      },
+      {
+        "code": "DNG_THANH_KHE",
+        "name": "Thanh Khê",
+        "slug": "thanh-khe"
+      },
+      {
+        "code": "DNG_SON_TRA",
+        "name": "Sơn Trà",
+        "slug": "son-tra"
+      },
+      {
+        "code": "DNG_NGU_HANH_SON",
+        "name": "Ngũ Hành Sơn",
+        "slug": "ngu-hanh-son"
+      },
+      {
+        "code": "DNG_LIEN_CHIEU",
+        "name": "Liên Chiểu",
+        "slug": "lien-chieu"
+      },
+      {
+        "code": "DNG_CAM_LE",
+        "name": "Cẩm Lệ",
+        "slug": "cam-le"
+      },
+      {
+        "code": "DNG_HOA_VANG",
+        "name": "Hòa Vang",
+        "slug": "hoa-vang"
+      },
+      {
+        "code": "DNG_HOANG_SA",
+        "name": "Hoàng Sa",
+        "slug": "hoang-sa"
+      }
+    ]
+  },
+  {
+    "code": "QNA",
+    "name": "Quảng Nam",
+    "slug": "quang-nam",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "QNA_TAM_KY",
+        "name": "Tam Kỳ",
+        "slug": "tam-ky"
+      },
+      {
+        "code": "QNA_HOI_AN",
+        "name": "Hội An",
+        "slug": "hoi-an"
+      },
+      {
+        "code": "QNA_DIEN_BAN",
+        "name": "Điện Bàn",
+        "slug": "dien-ban"
+      },
+      {
+        "code": "QNA_NUI_THANH",
+        "name": "Núi Thành",
+        "slug": "nui-thanh"
+      },
+      {
+        "code": "QNA_THANG_BINH",
+        "name": "Thăng Bình",
+        "slug": "thang-binh"
+      },
+      {
+        "code": "QNA_QUE_SON",
+        "name": "Quế Sơn",
+        "slug": "que-son"
+      },
+      {
+        "code": "QNA_DAI_LOC",
+        "name": "Đại Lộc",
+        "slug": "dai-loc"
+      },
+      {
+        "code": "QNA_DUY_XUYEN",
+        "name": "Duy Xuyên",
+        "slug": "duy-xuyen"
+      },
+      {
+        "code": "QNA_TIEN_PHUOC",
+        "name": "Tiên Phước",
+        "slug": "tien-phuoc"
+      },
+      {
+        "code": "QNA_HIEP_DUC",
+        "name": "Hiệp Đức",
+        "slug": "hiep-duc"
+      },
+      {
+        "code": "QNA_NONG_SON",
+        "name": "Nông Sơn",
+        "slug": "nong-son"
+      },
+      {
+        "code": "QNA_BAC_TRA_MY",
+        "name": "Bắc Trà My",
+        "slug": "bac-tra-my"
+      },
+      {
+        "code": "QNA_NAM_TRA_MY",
+        "name": "Nam Trà My",
+        "slug": "nam-tra-my"
+      },
+      {
+        "code": "QNA_PHUOC_SON",
+        "name": "Phước Sơn",
+        "slug": "phuoc-son"
+      },
+      {
+        "code": "QNA_DONG_GIANG",
+        "name": "Đông Giang",
+        "slug": "dong-giang"
+      },
+      {
+        "code": "QNA_NAM_GIANG",
+        "name": "Nam Giang",
+        "slug": "nam-giang"
+      },
+      {
+        "code": "QNA_TAY_GIANG",
+        "name": "Tây Giang",
+        "slug": "tay-giang"
+      },
+      {
+        "code": "QNA_PHU_NINH",
+        "name": "Phú Ninh",
+        "slug": "phu-ninh"
+      }
+    ]
+  },
+  {
+    "code": "QNG",
+    "name": "Quảng Ngãi",
+    "slug": "quang-ngai",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "QNG_QUANG_NGAI",
+        "name": "Quảng Ngãi",
+        "slug": "quang-ngai"
+      },
+      {
+        "code": "QNG_DUC_PHO",
+        "name": "Đức Phổ",
+        "slug": "duc-pho"
+      },
+      {
+        "code": "QNG_BINH_SON",
+        "name": "Bình Sơn",
+        "slug": "binh-son"
+      },
+      {
+        "code": "QNG_TRA_BONG",
+        "name": "Trà Bồng",
+        "slug": "tra-bong"
+      },
+      {
+        "code": "QNG_SON_TINH",
+        "name": "Sơn Tịnh",
+        "slug": "son-tinh"
+      },
+      {
+        "code": "QNG_TU_NGHIA",
+        "name": "Tư Nghĩa",
+        "slug": "tu-nghia"
+      },
+      {
+        "code": "QNG_SON_HA",
+        "name": "Sơn Hà",
+        "slug": "son-ha"
+      },
+      {
+        "code": "QNG_SON_TAY",
+        "name": "Sơn Tây",
+        "slug": "son-tay"
+      },
+      {
+        "code": "QNG_MINH_LONG",
+        "name": "Minh Long",
+        "slug": "minh-long"
+      },
+      {
+        "code": "QNG_NGHIA_HANH",
+        "name": "Nghĩa Hành",
+        "slug": "nghia-hanh"
+      },
+      {
+        "code": "QNG_MO_DUC",
+        "name": "Mộ Đức",
+        "slug": "mo-duc"
+      },
+      {
+        "code": "QNG_BA_TO",
+        "name": "Ba Tơ",
+        "slug": "ba-to"
+      },
+      {
+        "code": "QNG_LY_SON",
+        "name": "Lý Sơn",
+        "slug": "ly-son"
+      }
+    ]
+  },
+  {
+    "code": "BDH",
+    "name": "Bình Định",
+    "slug": "binh-dinh",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "BDH_QUY_NHON",
+        "name": "Quy Nhơn",
+        "slug": "quy-nhon"
+      },
+      {
+        "code": "BDH_AN_NHON",
+        "name": "An Nhơn",
+        "slug": "an-nhon"
+      },
+      {
+        "code": "BDH_HOAI_NHON",
+        "name": "Hoài Nhơn",
+        "slug": "hoai-nhon"
+      },
+      {
+        "code": "BDH_AN_LAO",
+        "name": "An Lão",
+        "slug": "an-lao"
+      },
+      {
+        "code": "BDH_HOAI_AN",
+        "name": "Hoài Ân",
+        "slug": "hoai-an"
+      },
+      {
+        "code": "BDH_PHU_MY",
+        "name": "Phù Mỹ",
+        "slug": "phu-my"
+      },
+      {
+        "code": "BDH_VINH_THANH",
+        "name": "Vĩnh Thạnh",
+        "slug": "vinh-thanh"
+      },
+      {
+        "code": "BDH_TAY_SON",
+        "name": "Tây Sơn",
+        "slug": "tay-son"
+      },
+      {
+        "code": "BDH_PHU_CAT",
+        "name": "Phù Cát",
+        "slug": "phu-cat"
+      },
+      {
+        "code": "BDH_TUY_PHUOC",
+        "name": "Tuy Phước",
+        "slug": "tuy-phuoc"
+      },
+      {
+        "code": "BDH_VAN_CANH",
+        "name": "Vân Canh",
+        "slug": "van-canh"
+      }
+    ]
+  },
+  {
+    "code": "PY",
+    "name": "Phú Yên",
+    "slug": "phu-yen",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "PY_TUY_HOA",
+        "name": "Tuy Hòa",
+        "slug": "tuy-hoa"
+      },
+      {
+        "code": "PY_SONG_CAU",
+        "name": "Sông Cầu",
+        "slug": "song-cau"
+      },
+      {
+        "code": "PY_DONG_HOA",
+        "name": "Đông Hòa",
+        "slug": "dong-hoa"
+      },
+      {
+        "code": "PY_DONG_XUAN",
+        "name": "Đồng Xuân",
+        "slug": "dong-xuan"
+      },
+      {
+        "code": "PY_TUY_AN",
+        "name": "Tuy An",
+        "slug": "tuy-an"
+      },
+      {
+        "code": "PY_SON_HOA",
+        "name": "Sơn Hòa",
+        "slug": "son-hoa"
+      },
+      {
+        "code": "PY_SONG_HINH",
+        "name": "Sông Hinh",
+        "slug": "song-hinh"
+      },
+      {
+        "code": "PY_TAY_HOA",
+        "name": "Tây Hòa",
+        "slug": "tay-hoa"
+      },
+      {
+        "code": "PY_PHU_HOA",
+        "name": "Phú Hòa",
+        "slug": "phu-hoa"
+      }
+    ]
+  },
+  {
+    "code": "KH",
+    "name": "Khánh Hòa",
+    "slug": "khanh-hoa",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "KH_NHA_TRANG",
+        "name": "Nha Trang",
+        "slug": "nha-trang"
+      },
+      {
+        "code": "KH_CAM_RANH",
+        "name": "Cam Ranh",
+        "slug": "cam-ranh"
+      },
+      {
+        "code": "KH_NINH_HOA",
+        "name": "Ninh Hòa",
+        "slug": "ninh-hoa"
+      },
+      {
+        "code": "KH_VAN_NINH",
+        "name": "Vạn Ninh",
+        "slug": "van-ninh"
+      },
+      {
+        "code": "KH_DIEN_KHANH",
+        "name": "Diên Khánh",
+        "slug": "dien-khanh"
+      },
+      {
+        "code": "KH_KHANH_VINH",
+        "name": "Khánh Vĩnh",
+        "slug": "khanh-vinh"
+      },
+      {
+        "code": "KH_KHANH_SON",
+        "name": "Khánh Sơn",
+        "slug": "khanh-son"
+      },
+      {
+        "code": "KH_CAM_LAM",
+        "name": "Cam Lâm",
+        "slug": "cam-lam"
+      },
+      {
+        "code": "KH_TRUONG_SA",
+        "name": "Trường Sa",
+        "slug": "truong-sa"
+      }
+    ]
+  },
+  {
+    "code": "NT",
+    "name": "Ninh Thuận",
+    "slug": "ninh-thuan",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "NT_PHAN_RANG___",
+        "name": "Phan Rang - Tháp Chàm",
+        "slug": "phan-rang---thap-cham"
+      },
+      {
+        "code": "NT_BAC_AI",
+        "name": "Bác Ái",
+        "slug": "bac-ai"
+      },
+      {
+        "code": "NT_NINH_SON",
+        "name": "Ninh Sơn",
+        "slug": "ninh-son"
+      },
+      {
+        "code": "NT_NINH_HAI",
+        "name": "Ninh Hải",
+        "slug": "ninh-hai"
+      },
+      {
+        "code": "NT_NINH_PHUOC",
+        "name": "Ninh Phước",
+        "slug": "ninh-phuoc"
+      },
+      {
+        "code": "NT_THUAN_BAC",
+        "name": "Thuận Bắc",
+        "slug": "thuan-bac"
+      },
+      {
+        "code": "NT_THUAN_NAM",
+        "name": "Thuận Nam",
+        "slug": "thuan-nam"
+      }
+    ]
+  },
+  {
+    "code": "BT",
+    "name": "Bình Thuận",
+    "slug": "binh-thuan",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "BT_PHAN_THIET",
+        "name": "Phan Thiết",
+        "slug": "phan-thiet"
+      },
+      {
+        "code": "BT_LA_GI",
+        "name": "La Gi",
+        "slug": "la-gi"
+      },
+      {
+        "code": "BT_TUY_PHONG",
+        "name": "Tuy Phong",
+        "slug": "tuy-phong"
+      },
+      {
+        "code": "BT_BAC_BINH",
+        "name": "Bắc Bình",
+        "slug": "bac-binh"
+      },
+      {
+        "code": "BT_HAM_THUAN_BA",
+        "name": "Hàm Thuận Bắc",
+        "slug": "ham-thuan-bac"
+      },
+      {
+        "code": "BT_HAM_THUAN_NA",
+        "name": "Hàm Thuận Nam",
+        "slug": "ham-thuan-nam"
+      },
+      {
+        "code": "BT_HAM_TAN",
+        "name": "Hàm Tân",
+        "slug": "ham-tan"
+      },
+      {
+        "code": "BT_DUC_LINH",
+        "name": "Đức Linh",
+        "slug": "duc-linh"
+      },
+      {
+        "code": "BT_TANH_LINH",
+        "name": "Tánh Linh",
+        "slug": "tanh-linh"
+      },
+      {
+        "code": "BT_PHU_QUY",
+        "name": "Phú Quý",
+        "slug": "phu-quy"
+      }
+    ]
+  },
+  {
+    "code": "KT",
+    "name": "Kon Tum",
+    "slug": "kon-tum",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "KT_KON_TUM",
+        "name": "Kon Tum",
+        "slug": "kon-tum"
+      },
+      {
+        "code": "KT_DAK_HA",
+        "name": "Đắk Hà",
+        "slug": "dak-ha"
+      },
+      {
+        "code": "KT_DAK_TO",
+        "name": "Đắk Tô",
+        "slug": "dak-to"
+      },
+      {
+        "code": "KT_NGOC_HOI",
+        "name": "Ngọc Hồi",
+        "slug": "ngoc-hoi"
+      },
+      {
+        "code": "KT_DAK_GLEI",
+        "name": "Đắk Glei",
+        "slug": "dak-glei"
+      },
+      {
+        "code": "KT_SA_THAY",
+        "name": "Sa Thầy",
+        "slug": "sa-thay"
+      },
+      {
+        "code": "KT_KON_RAY",
+        "name": "Kon Rẫy",
+        "slug": "kon-ray"
+      },
+      {
+        "code": "KT_KON_PLONG",
+        "name": "Kon Plông",
+        "slug": "kon-plong"
+      },
+      {
+        "code": "KT_TU_MO_RONG",
+        "name": "Tu Mơ Rông",
+        "slug": "tu-mo-rong"
+      },
+      {
+        "code": "KT_IA_H_DRAI",
+        "name": "Ia H' Drai",
+        "slug": "ia-h-drai"
+      }
+    ]
+  },
+  {
+    "code": "GL",
+    "name": "Gia Lai",
+    "slug": "gia-lai",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "GL_PLEIKU",
+        "name": "Pleiku",
+        "slug": "pleiku"
+      },
+      {
+        "code": "GL_AN_KHE",
+        "name": "An Khê",
+        "slug": "an-khe"
+      },
+      {
+        "code": "GL_AYUN_PA",
+        "name": "Ayun Pa",
+        "slug": "ayun-pa"
+      },
+      {
+        "code": "GL_KBANG",
+        "name": "KBang",
+        "slug": "kbang"
+      },
+      {
+        "code": "GL_DAK_DOA",
+        "name": "Đăk Đoa",
+        "slug": "dak-doa"
+      },
+      {
+        "code": "GL_CHU_PAH",
+        "name": "Chư Păh",
+        "slug": "chu-pah"
+      },
+      {
+        "code": "GL_IA_GRAI",
+        "name": "Ia Grai",
+        "slug": "ia-grai"
+      },
+      {
+        "code": "GL_MANG_YANG",
+        "name": "Mang Yang",
+        "slug": "mang-yang"
+      },
+      {
+        "code": "GL_KONG_CHRO",
+        "name": "Kông Chro",
+        "slug": "kong-chro"
+      },
+      {
+        "code": "GL_DUC_CO",
+        "name": "Đức Cơ",
+        "slug": "duc-co"
+      },
+      {
+        "code": "GL_CHU_PRONG",
+        "name": "Chư Prông",
+        "slug": "chu-prong"
+      },
+      {
+        "code": "GL_CHU_SE",
+        "name": "Chư Sê",
+        "slug": "chu-se"
+      },
+      {
+        "code": "GL_DAK_PO",
+        "name": "Đăk Pơ",
+        "slug": "dak-po"
+      },
+      {
+        "code": "GL_IA_PA",
+        "name": "Ia Pa",
+        "slug": "ia-pa"
+      },
+      {
+        "code": "GL_KRONG_PA",
+        "name": "Krông Pa",
+        "slug": "krong-pa"
+      },
+      {
+        "code": "GL_PHU_THIEN",
+        "name": "Phú Thiện",
+        "slug": "phu-thien"
+      },
+      {
+        "code": "GL_CHU_PUH",
+        "name": "Chư Pưh",
+        "slug": "chu-puh"
+      }
+    ]
+  },
+  {
+    "code": "DL",
+    "name": "Đắk Lắk",
+    "slug": "dak-lak",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "DL_BUON_MA_THUO",
+        "name": "Buôn Ma Thuột",
+        "slug": "buon-ma-thuot"
+      },
+      {
+        "code": "DL_BUON_HO",
+        "name": "Buôn Hồ",
+        "slug": "buon-ho"
+      },
+      {
+        "code": "DL_EA_HLEO",
+        "name": "Ea H'leo",
+        "slug": "ea-hleo"
+      },
+      {
+        "code": "DL_EA_SUP",
+        "name": "Ea Súp",
+        "slug": "ea-sup"
+      },
+      {
+        "code": "DL_BUON_DON",
+        "name": "Buôn Đôn",
+        "slug": "buon-don"
+      },
+      {
+        "code": "DL_CU_MGAR",
+        "name": "Cư M'gar",
+        "slug": "cu-mgar"
+      },
+      {
+        "code": "DL_KRONG_BUK",
+        "name": "Krông Búk",
+        "slug": "krong-buk"
+      },
+      {
+        "code": "DL_KRONG_NANG",
+        "name": "Krông Năng",
+        "slug": "krong-nang"
+      },
+      {
+        "code": "DL_EA_KAR",
+        "name": "Ea Kar",
+        "slug": "ea-kar"
+      },
+      {
+        "code": "DL_MDRAK",
+        "name": "M'Đrắk",
+        "slug": "mdrak"
+      },
+      {
+        "code": "DL_KRONG_BONG",
+        "name": "Krông Bông",
+        "slug": "krong-bong"
+      },
+      {
+        "code": "DL_KRONG_ANA",
+        "name": "Krông Ana",
+        "slug": "krong-ana"
+      },
+      {
+        "code": "DL_LAK",
+        "name": "Lắk",
+        "slug": "lak"
+      },
+      {
+        "code": "DL_CU_KUIN",
+        "name": "Cư Kuin",
+        "slug": "cu-kuin"
+      }
+    ]
+  },
+  {
+    "code": "DNO",
+    "name": "Đắk Nông",
+    "slug": "dak-nong",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "DNO_GIA_NGHIA",
+        "name": "Gia Nghĩa",
+        "slug": "gia-nghia"
+      },
+      {
+        "code": "DNO_DAK_GLONG",
+        "name": "Đăk Glong",
+        "slug": "dak-glong"
+      },
+      {
+        "code": "DNO_CU_JUT",
+        "name": "Cư Jút",
+        "slug": "cu-jut"
+      },
+      {
+        "code": "DNO_DAK_MIL",
+        "name": "Đắk Mil",
+        "slug": "dak-mil"
+      },
+      {
+        "code": "DNO_KRONG_NO",
+        "name": "Krông Nô",
+        "slug": "krong-no"
+      },
+      {
+        "code": "DNO_DAK_SONG",
+        "name": "Đắk Song",
+        "slug": "dak-song"
+      },
+      {
+        "code": "DNO_DAK_RLAP",
+        "name": "Đắk R'Lấp",
+        "slug": "dak-rlap"
+      },
+      {
+        "code": "DNO_TUY_DUC",
+        "name": "Tuy Đức",
+        "slug": "tuy-duc"
+      }
+    ]
+  },
+  {
+    "code": "LD",
+    "name": "Lâm Đồng",
+    "slug": "lam-dong",
+    "region": "TRUNG",
+    "districts": [
+      {
+        "code": "LD_DA_LAT",
+        "name": "Đà Lạt",
+        "slug": "da-lat"
+      },
+      {
+        "code": "LD_BAO_LOC",
+        "name": "Bảo Lộc",
+        "slug": "bao-loc"
+      },
+      {
+        "code": "LD_DAM_RONG",
+        "name": "Đam Rông",
+        "slug": "dam-rong"
+      },
+      {
+        "code": "LD_LAC_DUONG",
+        "name": "Lạc Dương",
+        "slug": "lac-duong"
+      },
+      {
+        "code": "LD_LAM_HA",
+        "name": "Lâm Hà",
+        "slug": "lam-ha"
+      },
+      {
+        "code": "LD_DON_DUONG",
+        "name": "Đơn Dương",
+        "slug": "don-duong"
+      },
+      {
+        "code": "LD_DUC_TRONG",
+        "name": "Đức Trọng",
+        "slug": "duc-trong"
+      },
+      {
+        "code": "LD_DI_LINH",
+        "name": "Di Linh",
+        "slug": "di-linh"
+      },
+      {
+        "code": "LD_BAO_LAM",
+        "name": "Bảo Lâm",
+        "slug": "bao-lam"
+      },
+      {
+        "code": "LD_DA_HUOAI",
+        "name": "Đạ Huoai",
+        "slug": "da-huoai"
+      },
+      {
+        "code": "LD_DA_TEH",
+        "name": "Đạ Tẻh",
+        "slug": "da-teh"
+      },
+      {
+        "code": "LD_CAT_TIEN",
+        "name": "Cát Tiên",
+        "slug": "cat-tien"
+      }
+    ]
+  },
+  {
+    "code": "HCM",
+    "name": "TP. Hồ Chí Minh",
+    "slug": "tp-ho-chi-minh",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "HCM_QUAN_1",
+        "name": "Quận 1",
+        "slug": "quan-1"
+      },
+      {
+        "code": "HCM_QUAN_3",
+        "name": "Quận 3",
+        "slug": "quan-3"
+      },
+      {
+        "code": "HCM_QUAN_4",
+        "name": "Quận 4",
+        "slug": "quan-4"
+      },
+      {
+        "code": "HCM_QUAN_5",
+        "name": "Quận 5",
+        "slug": "quan-5"
+      },
+      {
+        "code": "HCM_QUAN_6",
+        "name": "Quận 6",
+        "slug": "quan-6"
+      },
+      {
+        "code": "HCM_QUAN_7",
+        "name": "Quận 7",
+        "slug": "quan-7"
+      },
+      {
+        "code": "HCM_QUAN_8",
+        "name": "Quận 8",
+        "slug": "quan-8"
+      },
+      {
+        "code": "HCM_QUAN_10",
+        "name": "Quận 10",
+        "slug": "quan-10"
+      },
+      {
+        "code": "HCM_QUAN_11",
+        "name": "Quận 11",
+        "slug": "quan-11"
+      },
+      {
+        "code": "HCM_QUAN_12",
+        "name": "Quận 12",
+        "slug": "quan-12"
+      },
+      {
+        "code": "HCM_BINH_TAN",
+        "name": "Bình Tân",
+        "slug": "binh-tan"
+      },
+      {
+        "code": "HCM_BINH_THANH",
+        "name": "Bình Thạnh",
+        "slug": "binh-thanh"
+      },
+      {
+        "code": "HCM_GO_VAP",
+        "name": "Gò Vấp",
+        "slug": "go-vap"
+      },
+      {
+        "code": "HCM_PHU_NHUAN",
+        "name": "Phú Nhuận",
+        "slug": "phu-nhuan"
+      },
+      {
+        "code": "HCM_TAN_BINH",
+        "name": "Tân Bình",
+        "slug": "tan-binh"
+      },
+      {
+        "code": "HCM_TAN_PHU",
+        "name": "Tân Phú",
+        "slug": "tan-phu"
+      },
+      {
+        "code": "HCM_TP_THU_DUC",
+        "name": "TP. Thủ Đức",
+        "slug": "tp-thu-duc"
+      },
+      {
+        "code": "HCM_BINH_CHANH",
+        "name": "Bình Chánh",
+        "slug": "binh-chanh"
+      },
+      {
+        "code": "HCM_CAN_GIO",
+        "name": "Cần Giờ",
+        "slug": "can-gio"
+      },
+      {
+        "code": "HCM_CU_CHI",
+        "name": "Củ Chi",
+        "slug": "cu-chi"
+      },
+      {
+        "code": "HCM_HOC_MON",
+        "name": "Hóc Môn",
+        "slug": "hoc-mon"
+      },
+      {
+        "code": "HCM_NHA_BE",
+        "name": "Nhà Bè",
+        "slug": "nha-be"
+      }
+    ]
+  },
+  {
+    "code": "BDG",
+    "name": "Bình Dương",
+    "slug": "binh-duong",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "BDG_THU_DAU_MOT",
+        "name": "Thủ Dầu Một",
+        "slug": "thu-dau-mot"
+      },
+      {
+        "code": "BDG_DI_AN",
+        "name": "Dĩ An",
+        "slug": "di-an"
+      },
+      {
+        "code": "BDG_THUAN_AN",
+        "name": "Thuận An",
+        "slug": "thuan-an"
+      },
+      {
+        "code": "BDG_TAN_UYEN",
+        "name": "Tân Uyên",
+        "slug": "tan-uyen"
+      },
+      {
+        "code": "BDG_BEN_CAT",
+        "name": "Bến Cát",
+        "slug": "ben-cat"
+      },
+      {
+        "code": "BDG_BAU_BANG",
+        "name": "Bàu Bàng",
+        "slug": "bau-bang"
+      },
+      {
+        "code": "BDG_BAC_TAN_UYEN",
+        "name": "Bắc Tân Uyên",
+        "slug": "bac-tan-uyen"
+      },
+      {
+        "code": "BDG_DAU_TIENG",
+        "name": "Dầu Tiếng",
+        "slug": "dau-tieng"
+      },
+      {
+        "code": "BDG_PHU_GIAO",
+        "name": "Phú Giáo",
+        "slug": "phu-giao"
+      }
+    ]
+  },
+  {
+    "code": "DNI",
+    "name": "Đồng Nai",
+    "slug": "dong-nai",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "DNI_BIEN_HOA",
+        "name": "Biên Hòa",
+        "slug": "bien-hoa"
+      },
+      {
+        "code": "DNI_LONG_KHANH",
+        "name": "Long Khánh",
+        "slug": "long-khanh"
+      },
+      {
+        "code": "DNI_LONG_THANH",
+        "name": "Long Thành",
+        "slug": "long-thanh"
+      },
+      {
+        "code": "DNI_NHON_TRACH",
+        "name": "Nhơn Trạch",
+        "slug": "nhon-trach"
+      },
+      {
+        "code": "DNI_TRANG_BOM",
+        "name": "Trảng Bom",
+        "slug": "trang-bom"
+      },
+      {
+        "code": "DNI_VINH_CUU",
+        "name": "Vĩnh Cửu",
+        "slug": "vinh-cuu"
+      },
+      {
+        "code": "DNI_CAM_MY",
+        "name": "Cẩm Mỹ",
+        "slug": "cam-my"
+      },
+      {
+        "code": "DNI_DINH_QUAN",
+        "name": "Định Quán",
+        "slug": "dinh-quan"
+      },
+      {
+        "code": "DNI_THONG_NHAT",
+        "name": "Thống Nhất",
+        "slug": "thong-nhat"
+      },
+      {
+        "code": "DNI_TAN_PHU",
+        "name": "Tân Phú",
+        "slug": "tan-phu"
+      },
+      {
+        "code": "DNI_XUAN_LOC",
+        "name": "Xuân Lộc",
+        "slug": "xuan-loc"
+      }
+    ]
+  },
+  {
+    "code": "BRVT",
+    "name": "Bà Rịa - Vũng Tàu",
+    "slug": "ba-ria---vung-tau",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "BRVT_VUNG_TAU",
+        "name": "Vũng Tàu",
+        "slug": "vung-tau"
+      },
+      {
+        "code": "BRVT_BA_RIA",
+        "name": "Bà Rịa",
+        "slug": "ba-ria"
+      },
+      {
+        "code": "BRVT_PHU_MY",
+        "name": "Phú Mỹ",
+        "slug": "phu-my"
+      },
+      {
+        "code": "BRVT_CHAU_DUC",
+        "name": "Châu Đức",
+        "slug": "chau-duc"
+      },
+      {
+        "code": "BRVT_CON_DAO",
+        "name": "Côn Đảo",
+        "slug": "con-dao"
+      },
+      {
+        "code": "BRVT_DAT_DO",
+        "name": "Đất Đỏ",
+        "slug": "dat-do"
+      },
+      {
+        "code": "BRVT_LONG_DIEN",
+        "name": "Long Điền",
+        "slug": "long-dien"
+      },
+      {
+        "code": "BRVT_XUYEN_MOC",
+        "name": "Xuyên Mộc",
+        "slug": "xuyen-moc"
+      }
+    ]
+  },
+  {
+    "code": "LA",
+    "name": "Long An",
+    "slug": "long-an",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "LA_TAN_AN",
+        "name": "Tân An",
+        "slug": "tan-an"
+      },
+      {
+        "code": "LA_KIEN_TUONG",
+        "name": "Kiến Tường",
+        "slug": "kien-tuong"
+      },
+      {
+        "code": "LA_BEN_LUC",
+        "name": "Bến Lức",
+        "slug": "ben-luc"
+      },
+      {
+        "code": "LA_CAN_DUOC",
+        "name": "Cần Đước",
+        "slug": "can-duoc"
+      },
+      {
+        "code": "LA_CAN_GIUOC",
+        "name": "Cần Giuộc",
+        "slug": "can-giuoc"
+      },
+      {
+        "code": "LA_CHAU_THANH",
+        "name": "Châu Thành",
+        "slug": "chau-thanh"
+      },
+      {
+        "code": "LA_DUC_HOA",
+        "name": "Đức Hòa",
+        "slug": "duc-hoa"
+      },
+      {
+        "code": "LA_DUC_HUE",
+        "name": "Đức Huệ",
+        "slug": "duc-hue"
+      },
+      {
+        "code": "LA_MOC_HOA",
+        "name": "Mộc Hóa",
+        "slug": "moc-hoa"
+      },
+      {
+        "code": "LA_TAN_HUNG",
+        "name": "Tân Hưng",
+        "slug": "tan-hung"
+      },
+      {
+        "code": "LA_TAN_THANH",
+        "name": "Tân Thạnh",
+        "slug": "tan-thanh"
+      },
+      {
+        "code": "LA_TAN_TRU",
+        "name": "Tân Trụ",
+        "slug": "tan-tru"
+      },
+      {
+        "code": "LA_THANH_HOA",
+        "name": "Thạnh Hóa",
+        "slug": "thanh-hoa"
+      },
+      {
+        "code": "LA_THU_THUA",
+        "name": "Thủ Thừa",
+        "slug": "thu-thua"
+      },
+      {
+        "code": "LA_VINH_HUNG",
+        "name": "Vĩnh Hưng",
+        "slug": "vinh-hung"
+      }
+    ]
+  },
+  {
+    "code": "TNINH",
+    "name": "Tây Ninh",
+    "slug": "tay-ninh",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "TNINH_TAY_NINH",
+        "name": "Tây Ninh",
+        "slug": "tay-ninh"
+      },
+      {
+        "code": "TNINH_TRANG_BANG",
+        "name": "Trảng Bàng",
+        "slug": "trang-bang"
+      },
+      {
+        "code": "TNINH_HOA_THANH",
+        "name": "Hòa Thành",
+        "slug": "hoa-thanh"
+      },
+      {
+        "code": "TNINH_TAN_BIEN",
+        "name": "Tân Biên",
+        "slug": "tan-bien"
+      },
+      {
+        "code": "TNINH_TAN_CHAU",
+        "name": "Tân Châu",
+        "slug": "tan-chau"
+      },
+      {
+        "code": "TNINH_DUONG_MINH_C",
+        "name": "Dương Minh Châu",
+        "slug": "duong-minh-chau"
+      },
+      {
+        "code": "TNINH_CHAU_THANH",
+        "name": "Châu Thành",
+        "slug": "chau-thanh"
+      },
+      {
+        "code": "TNINH_BEN_CAU",
+        "name": "Bến Cầu",
+        "slug": "ben-cau"
+      },
+      {
+        "code": "TNINH_GO_DAU",
+        "name": "Gò Dầu",
+        "slug": "go-dau"
+      }
+    ]
+  },
+  {
+    "code": "BPC",
+    "name": "Bình Phước",
+    "slug": "binh-phuoc",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "BPC_DONG_XOAI",
+        "name": "Đồng Xoài",
+        "slug": "dong-xoai"
+      },
+      {
+        "code": "BPC_BINH_LONG",
+        "name": "Bình Long",
+        "slug": "binh-long"
+      },
+      {
+        "code": "BPC_PHUOC_LONG",
+        "name": "Phước Long",
+        "slug": "phuoc-long"
+      },
+      {
+        "code": "BPC_BU_GIA_MAP",
+        "name": "Bù Gia Mập",
+        "slug": "bu-gia-map"
+      },
+      {
+        "code": "BPC_LOC_NINH",
+        "name": "Lộc Ninh",
+        "slug": "loc-ninh"
+      },
+      {
+        "code": "BPC_BU_DOP",
+        "name": "Bù Đốp",
+        "slug": "bu-dop"
+      },
+      {
+        "code": "BPC_HON_QUAN",
+        "name": "Hớn Quản",
+        "slug": "hon-quan"
+      },
+      {
+        "code": "BPC_DONG_PHU",
+        "name": "Đồng Phú",
+        "slug": "dong-phu"
+      },
+      {
+        "code": "BPC_BU_DANG",
+        "name": "Bù Đăng",
+        "slug": "bu-dang"
+      },
+      {
+        "code": "BPC_CHON_THANH",
+        "name": "Chơn Thành",
+        "slug": "chon-thanh"
+      },
+      {
+        "code": "BPC_PHU_RIENG",
+        "name": "Phú Riềng",
+        "slug": "phu-rieng"
+      }
+    ]
+  },
+  {
+    "code": "CT",
+    "name": "Cần Thơ",
+    "slug": "can-tho",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "CT_NINH_KIEU",
+        "name": "Ninh Kiều",
+        "slug": "ninh-kieu"
+      },
+      {
+        "code": "CT_O_MON",
+        "name": "Ô Môn",
+        "slug": "o-mon"
+      },
+      {
+        "code": "CT_BINH_THUY",
+        "name": "Bình Thủy",
+        "slug": "binh-thuy"
+      },
+      {
+        "code": "CT_CAI_RANG",
+        "name": "Cái Răng",
+        "slug": "cai-rang"
+      },
+      {
+        "code": "CT_THOT_NOT",
+        "name": "Thốt Nốt",
+        "slug": "thot-not"
+      },
+      {
+        "code": "CT_VINH_THANH",
+        "name": "Vĩnh Thạnh",
+        "slug": "vinh-thanh"
+      },
+      {
+        "code": "CT_CO_DO",
+        "name": "Cờ Đỏ",
+        "slug": "co-do"
+      },
+      {
+        "code": "CT_PHONG_DIEN",
+        "name": "Phong Điền",
+        "slug": "phong-dien"
+      },
+      {
+        "code": "CT_THOI_LAI",
+        "name": "Thới Lai",
+        "slug": "thoi-lai"
+      }
+    ]
+  },
+  {
+    "code": "TG",
+    "name": "Tiền Giang",
+    "slug": "tien-giang",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "TG_MY_THO",
+        "name": "Mỹ Tho",
+        "slug": "my-tho"
+      },
+      {
+        "code": "TG_GO_CONG",
+        "name": "Gò Công",
+        "slug": "go-cong"
+      },
+      {
+        "code": "TG_CAI_LAY",
+        "name": "Cai Lậy",
+        "slug": "cai-lay"
+      },
+      {
+        "code": "TG_CAI_BE",
+        "name": "Cái Bè",
+        "slug": "cai-be"
+      },
+      {
+        "code": "TG_TAN_PHUOC",
+        "name": "Tân Phước",
+        "slug": "tan-phuoc"
+      },
+      {
+        "code": "TG_CHAU_THANH",
+        "name": "Châu Thành",
+        "slug": "chau-thanh"
+      },
+      {
+        "code": "TG_CHO_GAO",
+        "name": "Chợ Gạo",
+        "slug": "cho-gao"
+      },
+      {
+        "code": "TG_GO_CONG_TAY",
+        "name": "Gò Công Tây",
+        "slug": "go-cong-tay"
+      },
+      {
+        "code": "TG_GO_CONG_DONG",
+        "name": "Gò Công Đông",
+        "slug": "go-cong-dong"
+      },
+      {
+        "code": "TG_TAN_PHU_DONG",
+        "name": "Tân Phú Đông",
+        "slug": "tan-phu-dong"
+      }
+    ]
+  },
+  {
+    "code": "AG",
+    "name": "An Giang",
+    "slug": "an-giang",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "AG_LONG_XUYEN",
+        "name": "Long Xuyên",
+        "slug": "long-xuyen"
+      },
+      {
+        "code": "AG_CHAU_DOC",
+        "name": "Châu Đốc",
+        "slug": "chau-doc"
+      },
+      {
+        "code": "AG_TAN_CHAU",
+        "name": "Tân Châu",
+        "slug": "tan-chau"
+      },
+      {
+        "code": "AG_AN_PHU",
+        "name": "An Phú",
+        "slug": "an-phu"
+      },
+      {
+        "code": "AG_TINH_BIEN",
+        "name": "Tịnh Biên",
+        "slug": "tinh-bien"
+      },
+      {
+        "code": "AG_TRI_TON",
+        "name": "Tri Tôn",
+        "slug": "tri-ton"
+      },
+      {
+        "code": "AG_CHAU_PHU",
+        "name": "Châu Phú",
+        "slug": "chau-phu"
+      },
+      {
+        "code": "AG_CHAU_THANH",
+        "name": "Châu Thành",
+        "slug": "chau-thanh"
+      },
+      {
+        "code": "AG_THOAI_SON",
+        "name": "Thoại Sơn",
+        "slug": "thoai-son"
+      },
+      {
+        "code": "AG_CHO_MOI",
+        "name": "Chợ Mới",
+        "slug": "cho-moi"
+      },
+      {
+        "code": "AG_PHU_TAN",
+        "name": "Phú Tân",
+        "slug": "phu-tan"
+      }
+    ]
+  },
+  {
+    "code": "BTRE",
+    "name": "Bến Tre",
+    "slug": "ben-tre",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "BTRE_BEN_TRE",
+        "name": "Bến Tre",
+        "slug": "ben-tre"
+      },
+      {
+        "code": "BTRE_CHAU_THANH",
+        "name": "Châu Thành",
+        "slug": "chau-thanh"
+      },
+      {
+        "code": "BTRE_CHO_LACH",
+        "name": "Chợ Lách",
+        "slug": "cho-lach"
+      },
+      {
+        "code": "BTRE_MO_CAY_NAM",
+        "name": "Mỏ Cày Nam",
+        "slug": "mo-cay-nam"
+      },
+      {
+        "code": "BTRE_GIONG_TROM",
+        "name": "Giồng Trôm",
+        "slug": "giong-trom"
+      },
+      {
+        "code": "BTRE_BINH_DAI",
+        "name": "Bình Đại",
+        "slug": "binh-dai"
+      },
+      {
+        "code": "BTRE_BA_TRI",
+        "name": "Ba Tri",
+        "slug": "ba-tri"
+      },
+      {
+        "code": "BTRE_THANH_PHU",
+        "name": "Thạnh Phú",
+        "slug": "thanh-phu"
+      },
+      {
+        "code": "BTRE_MO_CAY_BAC",
+        "name": "Mỏ Cày Bắc",
+        "slug": "mo-cay-bac"
+      }
+    ]
+  },
+  {
+    "code": "VLG",
+    "name": "Vĩnh Long",
+    "slug": "vinh-long",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "VLG_VINH_LONG",
+        "name": "Vĩnh Long",
+        "slug": "vinh-long"
+      },
+      {
+        "code": "VLG_BINH_MINH",
+        "name": "Bình Minh",
+        "slug": "binh-minh"
+      },
+      {
+        "code": "VLG_LONG_HO",
+        "name": "Long Hồ",
+        "slug": "long-ho"
+      },
+      {
+        "code": "VLG_MANG_THIT",
+        "name": "Mang Thít",
+        "slug": "mang-thit"
+      },
+      {
+        "code": "VLG_VUNG_LIEM",
+        "name": "Vũng Liêm",
+        "slug": "vung-liem"
+      },
+      {
+        "code": "VLG_TAM_BINH",
+        "name": "Tam Bình",
+        "slug": "tam-binh"
+      },
+      {
+        "code": "VLG_TRA_ON",
+        "name": "Trà Ôn",
+        "slug": "tra-on"
+      },
+      {
+        "code": "VLG_BINH_TAN",
+        "name": "Bình Tân",
+        "slug": "binh-tan"
+      }
+    ]
+  },
+  {
+    "code": "DT",
+    "name": "Đồng Tháp",
+    "slug": "dong-thap",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "DT_CAO_LANH",
+        "name": "Cao Lãnh",
+        "slug": "cao-lanh"
+      },
+      {
+        "code": "DT_SA_DEC",
+        "name": "Sa Đéc",
+        "slug": "sa-dec"
+      },
+      {
+        "code": "DT_HONG_NGU",
+        "name": "Hồng Ngự",
+        "slug": "hong-ngu"
+      },
+      {
+        "code": "DT_TAN_HONG",
+        "name": "Tân Hồng",
+        "slug": "tan-hong"
+      },
+      {
+        "code": "DT_TAM_NONG",
+        "name": "Tam Nông",
+        "slug": "tam-nong"
+      },
+      {
+        "code": "DT_THAP_MUOI",
+        "name": "Tháp Mười",
+        "slug": "thap-muoi"
+      },
+      {
+        "code": "DT_THANH_BINH",
+        "name": "Thanh Bình",
+        "slug": "thanh-binh"
+      },
+      {
+        "code": "DT_LAP_VO",
+        "name": "Lấp Vò",
+        "slug": "lap-vo"
+      },
+      {
+        "code": "DT_LAI_VUNG",
+        "name": "Lai Vung",
+        "slug": "lai-vung"
+      },
+      {
+        "code": "DT_CHAU_THANH",
+        "name": "Châu Thành",
+        "slug": "chau-thanh"
+      }
+    ]
+  },
+  {
+    "code": "KG",
+    "name": "Kiên Giang",
+    "slug": "kien-giang",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "KG_RACH_GIA",
+        "name": "Rạch Giá",
+        "slug": "rach-gia"
+      },
+      {
+        "code": "KG_HA_TIEN",
+        "name": "Hà Tiên",
+        "slug": "ha-tien"
+      },
+      {
+        "code": "KG_PHU_QUOC",
+        "name": "Phú Quốc",
+        "slug": "phu-quoc"
+      },
+      {
+        "code": "KG_KIEN_LUONG",
+        "name": "Kiên Lương",
+        "slug": "kien-luong"
+      },
+      {
+        "code": "KG_HON_DAT",
+        "name": "Hòn Đất",
+        "slug": "hon-dat"
+      },
+      {
+        "code": "KG_TAN_HIEP",
+        "name": "Tân Hiệp",
+        "slug": "tan-hiep"
+      },
+      {
+        "code": "KG_CHAU_THANH",
+        "name": "Châu Thành",
+        "slug": "chau-thanh"
+      },
+      {
+        "code": "KG_GIONG_RIENG",
+        "name": "Giồng Riềng",
+        "slug": "giong-rieng"
+      },
+      {
+        "code": "KG_GO_QUAO",
+        "name": "Gò Quao",
+        "slug": "go-quao"
+      },
+      {
+        "code": "KG_AN_BIEN",
+        "name": "An Biên",
+        "slug": "an-bien"
+      },
+      {
+        "code": "KG_AN_MINH",
+        "name": "An Minh",
+        "slug": "an-minh"
+      },
+      {
+        "code": "KG_VINH_THUAN",
+        "name": "Vĩnh Thuận",
+        "slug": "vinh-thuan"
+      },
+      {
+        "code": "KG_U_MINH_THUON",
+        "name": "U Minh Thượng",
+        "slug": "u-minh-thuong"
+      },
+      {
+        "code": "KG_KIEN_HAI",
+        "name": "Kiên Hải",
+        "slug": "kien-hai"
+      },
+      {
+        "code": "KG_GIANG_THANH",
+        "name": "Giang Thành",
+        "slug": "giang-thanh"
+      }
+    ]
+  },
+  {
+    "code": "HGI",
+    "name": "Hậu Giang",
+    "slug": "hau-giang",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "HGI_VI_THANH",
+        "name": "Vị Thanh",
+        "slug": "vi-thanh"
+      },
+      {
+        "code": "HGI_NGA_BAY",
+        "name": "Ngã Bảy",
+        "slug": "nga-bay"
+      },
+      {
+        "code": "HGI_LONG_MY",
+        "name": "Long Mỹ",
+        "slug": "long-my"
+      },
+      {
+        "code": "HGI_CHAU_THANH",
+        "name": "Châu Thành",
+        "slug": "chau-thanh"
+      },
+      {
+        "code": "HGI_CHAU_THANH_A",
+        "name": "Châu Thành A",
+        "slug": "chau-thanh-a"
+      },
+      {
+        "code": "HGI_PHUNG_HIEP",
+        "name": "Phụng Hiệp",
+        "slug": "phung-hiep"
+      },
+      {
+        "code": "HGI_VI_THUY",
+        "name": "Vị Thủy",
+        "slug": "vi-thuy"
+      }
+    ]
+  },
+  {
+    "code": "TV",
+    "name": "Trà Vinh",
+    "slug": "tra-vinh",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "TV_TRA_VINH",
+        "name": "Trà Vinh",
+        "slug": "tra-vinh"
+      },
+      {
+        "code": "TV_DUYEN_HAI",
+        "name": "Duyên Hải",
+        "slug": "duyen-hai"
+      },
+      {
+        "code": "TV_CANG_LONG",
+        "name": "Càng Long",
+        "slug": "cang-long"
+      },
+      {
+        "code": "TV_CAU_KE",
+        "name": "Cầu Kè",
+        "slug": "cau-ke"
+      },
+      {
+        "code": "TV_TIEU_CAN",
+        "name": "Tiểu Cần",
+        "slug": "tieu-can"
+      },
+      {
+        "code": "TV_CHAU_THANH",
+        "name": "Châu Thành",
+        "slug": "chau-thanh"
+      },
+      {
+        "code": "TV_CAU_NGANG",
+        "name": "Cầu Ngang",
+        "slug": "cau-ngang"
+      },
+      {
+        "code": "TV_TRA_CU",
+        "name": "Trà Cú",
+        "slug": "tra-cu"
+      }
+    ]
+  },
+  {
+    "code": "ST",
+    "name": "Sóc Trăng",
+    "slug": "soc-trang",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "ST_SOC_TRANG",
+        "name": "Sóc Trăng",
+        "slug": "soc-trang"
+      },
+      {
+        "code": "ST_CHAU_THANH",
+        "name": "Châu Thành",
+        "slug": "chau-thanh"
+      },
+      {
+        "code": "ST_KE_SACH",
+        "name": "Kế Sách",
+        "slug": "ke-sach"
+      },
+      {
+        "code": "ST_MY_TU",
+        "name": "Mỹ Tú",
+        "slug": "my-tu"
+      },
+      {
+        "code": "ST_CU_LAO_DUNG",
+        "name": "Cù Lao Dung",
+        "slug": "cu-lao-dung"
+      },
+      {
+        "code": "ST_LONG_PHU",
+        "name": "Long Phú",
+        "slug": "long-phu"
+      },
+      {
+        "code": "ST_MY_XUYEN",
+        "name": "Mỹ Xuyên",
+        "slug": "my-xuyen"
+      },
+      {
+        "code": "ST_NGA_NAM",
+        "name": "Ngã Năm",
+        "slug": "nga-nam"
+      },
+      {
+        "code": "ST_THANH_TRI",
+        "name": "Thạnh Trị",
+        "slug": "thanh-tri"
+      },
+      {
+        "code": "ST_VINH_CHAU",
+        "name": "Vĩnh Châu",
+        "slug": "vinh-chau"
+      },
+      {
+        "code": "ST_TRAN_DE",
+        "name": "Trần Đề",
+        "slug": "tran-de"
+      }
+    ]
+  },
+  {
+    "code": "BL",
+    "name": "Bạc Liêu",
+    "slug": "bac-lieu",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "BL_BAC_LIEU",
+        "name": "Bạc Liêu",
+        "slug": "bac-lieu"
+      },
+      {
+        "code": "BL_GIA_RAI",
+        "name": "Giá Rai",
+        "slug": "gia-rai"
+      },
+      {
+        "code": "BL_HONG_DAN",
+        "name": "Hồng Dân",
+        "slug": "hong-dan"
+      },
+      {
+        "code": "BL_PHUOC_LONG",
+        "name": "Phước Long",
+        "slug": "phuoc-long"
+      },
+      {
+        "code": "BL_VINH_LOI",
+        "name": "Vĩnh Lợi",
+        "slug": "vinh-loi"
+      },
+      {
+        "code": "BL_DONG_HAI",
+        "name": "Đông Hải",
+        "slug": "dong-hai"
+      },
+      {
+        "code": "BL_HOA_BINH",
+        "name": "Hòa Bình",
+        "slug": "hoa-binh"
+      }
+    ]
+  },
+  {
+    "code": "CM",
+    "name": "Cà Mau",
+    "slug": "ca-mau",
+    "region": "NAM",
+    "districts": [
+      {
+        "code": "CM_CA_MAU",
+        "name": "Cà Mau",
+        "slug": "ca-mau"
+      },
+      {
+        "code": "CM_U_MINH",
+        "name": "U Minh",
+        "slug": "u-minh"
+      },
+      {
+        "code": "CM_THOI_BINH",
+        "name": "Thới Bình",
+        "slug": "thoi-binh"
+      },
+      {
+        "code": "CM_TRAN_VAN_THO",
+        "name": "Trần Văn Thời",
+        "slug": "tran-van-thoi"
+      },
+      {
+        "code": "CM_CAI_NUOC",
+        "name": "Cái Nước",
+        "slug": "cai-nuoc"
+      },
+      {
+        "code": "CM_DAM_DOI",
+        "name": "Đầm Dơi",
+        "slug": "dam-doi"
+      },
+      {
+        "code": "CM_NAM_CAN",
+        "name": "Năm Căn",
+        "slug": "nam-can"
+      },
+      {
+        "code": "CM_PHU_TAN",
+        "name": "Phú Tân",
+        "slug": "phu-tan"
+      },
+      {
+        "code": "CM_NGOC_HIEN",
+        "name": "Ngọc Hiển",
+        "slug": "ngoc-hien"
+      }
+    ]
+  }
+]
